@@ -1,0 +1,11 @@
+# Python packages needed to run the scripts (Python 3.10+ recommended; see README for the version used).
+# netmedpy and pyarrow are pinned to the versions used in this project.
+# Replace the unpinned lines with YOUR exact versions - run this once and paste its output over them:
+#   python -c "import importlib.metadata as m; [print(f'{p}=={m.version(p)}') for p in ['pandas','numpy','networkx','scipy','matplotlib']]"
+netmedpy==0.2.0.1
+pyarrow==26.0.1
+pandas
+numpy
+networkx
+scipy
+matplotlib

@@ -1,0 +1,7 @@
+dataset,n_files,size_gb,status
+disease,1,0.01,OK
+target,3,0.02,OK
+drug_molecule,1,0.01,OK
+drug_mechanism_of_action,1,0.0,OK
+clinical_indication,1,0.0,OK
+association_by_datatype_direct,15,0.8,OK

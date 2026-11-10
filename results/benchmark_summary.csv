@@ -1,0 +1,81 @@
+run,subset,score,auc,ci_low,ci_high,n_pairs,n_known
+conf700/full,all pairs,Proximity (-z),0.5716572927497873,0.5368125665606788,0.6072873503111215,1476,284
+conf700/full,all pairs,Raw distance (no null),0.5837183334908782,0.5510817470377606,0.6169042655483828,1476,284
+conf700/full,all pairs,Overlap fraction,0.5670904622365063,0.5432176363567078,0.5917871186632676,1476,284
+conf700/full,all pairs,Overlap hypergeometric,0.5674449380848852,0.5432061290855501,0.5911893278528444,1476,284
+conf700/full,all pairs,Target degree,0.5269490263730031,0.5066726620554697,0.5468582834022004,1476,284
+conf700/full,no direct overlap,Proximity (-z),0.5065922755195399,,,1317,224
+conf700/full,no direct overlap,Raw distance (no null),0.5238408377989805,,,1317,224
+conf700/full,no direct overlap,Overlap fraction,0.5,,,1317,224
+conf700/full,no direct overlap,Overlap hypergeometric,0.5,,,1317,224
+conf700/full,no direct overlap,Target degree,0.5345481799764736,,,1317,224
+conf700/full,group A cardiometabolic,Proximity (-z),0.5475023342670402,,,738,126
+conf700/full,group A cardiometabolic,Raw distance (no null),0.5325435729847494,,,738,126
+conf700/full,group A cardiometabolic,Overlap fraction,0.606377736279697,,,738,126
+conf700/full,group A cardiometabolic,Overlap hypergeometric,0.6050679531071688,,,738,126
+conf700/full,group A cardiometabolic,Target degree,0.37103174603174605,,,738,126
+conf700/full,group B immune,Proximity (-z),0.6132802269751201,,,738,158
+conf700/full,group B immune,Raw distance (no null),0.6433926233085988,,,738,158
+conf700/full,group B immune,Overlap fraction,0.5379965080750764,,,738,158
+conf700/full,group B immune,Overlap hypergeometric,0.5392568747271934,,,738,158
+conf700/full,group B immune,Target degree,0.6582987778262768,,,738,158
+conf900/shared,all pairs,Proximity (-z),0.5986554679347919,0.5653893200643821,0.6315022358161354,1368,265
+conf900/shared,all pairs,Raw distance (no null),0.6094869908824988,0.5804848777928274,0.6402771301313058,1368,265
+conf900/shared,all pairs,Overlap fraction,0.5732992353615355,0.5471811789599917,0.5996797987093806,1368,265
+conf900/shared,all pairs,Overlap hypergeometric,0.5737782035272584,0.5483747517699366,0.5998383027754142,1368,265
+conf900/shared,all pairs,Target degree,0.527742520398912,0.5072894052438035,0.5469342808230745,1368,265
+conf900/shared,no direct overlap,Proximity (-z),0.5400454897406117,,,1213,205
+conf900/shared,no direct overlap,Raw distance (no null),0.5526495354239257,,,1213,205
+conf900/shared,no direct overlap,Overlap fraction,0.5,,,1213,205
+conf900/shared,no direct overlap,Overlap hypergeometric,0.5,,,1213,205
+conf900/shared,no direct overlap,Target degree,0.5355303910181959,,,1213,205
+conf900/shared,group A cardiometabolic,Proximity (-z),0.5720529470529471,,,684,112
+conf900/shared,group A cardiometabolic,Raw distance (no null),0.5498407842157842,,,684,112
+conf900/shared,group A cardiometabolic,Overlap fraction,0.6253902347652348,,,684,112
+conf900/shared,group A cardiometabolic,Overlap hypergeometric,0.6243912337662337,,,684,112
+conf900/shared,group A cardiometabolic,Target degree,0.36843625124875123,,,684,112
+conf900/shared,group B immune,Proximity (-z),0.6313159287569391,,,684,153
+conf900/shared,group B immune,Raw distance (no null),0.6713501470895954,,,684,153
+conf900/shared,group B immune,Overlap fraction,0.5372339770811023,,,684,153
+conf900/shared,group B immune,Overlap hypergeometric,0.5386310205186908,,,684,153
+conf900/shared,group B immune,Target degree,0.6536501606292234,,,684,153
+conf700/shared,all pairs,Proximity (-z),0.5829726817085479,0.5436706150517915,0.6191192777682579,1368,265
+conf700/shared,all pairs,Raw distance (no null),0.5984159838519304,0.5634126975549142,0.6300001282950444,1368,265
+conf700/shared,all pairs,Overlap fraction,0.5732992353615355,0.5490886422267417,0.597767140686677,1368,265
+conf700/shared,all pairs,Overlap hypergeometric,0.5735695102550505,0.5497795621356962,0.597211045444253,1368,265
+conf700/shared,all pairs,Target degree,0.5294052241742075,0.5076858008243678,0.5504258450706777,1368,265
+conf700/shared,no direct overlap,Proximity (-z),0.5138937282229965,,,1213,205
+conf700/shared,no direct overlap,Raw distance (no null),0.5362562911343399,,,1213,205
+conf700/shared,no direct overlap,Overlap fraction,0.5,,,1213,205
+conf700/shared,no direct overlap,Overlap hypergeometric,0.5,,,1213,205
+conf700/shared,no direct overlap,Target degree,0.5470963995354239,,,1213,205
+conf700/shared,group A cardiometabolic,Proximity (-z),0.5865696803196803,,,684,112
+conf700/shared,group A cardiometabolic,Raw distance (no null),0.5707261488511488,,,684,112
+conf700/shared,group A cardiometabolic,Overlap fraction,0.6253902347652348,,,684,112
+conf700/shared,group A cardiometabolic,Overlap hypergeometric,0.6235171078921079,,,684,112
+conf700/shared,group A cardiometabolic,Target degree,0.37524975024975027,,,684,112
+conf700/shared,group B immune,Proximity (-z),0.6064830200755758,,,684,153
+conf700/shared,group B immune,Raw distance (no null),0.6385965560109794,,,684,153
+conf700/shared,group B immune,Overlap fraction,0.5372339770811023,,,684,153
+conf700/shared,group B immune,Overlap hypergeometric,0.5386679467769531,,,684,153
+conf700/shared,group B immune,Target degree,0.6512684169713083,,,684,153
+conf400/shared,all pairs,Proximity (-z),0.6602815648574214,0.6259438315252074,0.694723742649249,1368,265
+conf400/shared,all pairs,Raw distance (no null),0.6601310320053371,0.630734818959214,0.6911332705831644,1368,265
+conf400/shared,all pairs,Overlap fraction,0.5732992353615355,0.5510171960578645,0.5997859652848214,1368,265
+conf400/shared,all pairs,Overlap hypergeometric,0.5735489830479481,0.5513652582742187,0.59962664195055,1368,265
+conf400/shared,all pairs,Target degree,0.5178894609897535,0.49505252933013016,0.5402198504867343,1368,265
+conf400/shared,no direct overlap,Proximity (-z),0.6222319008904375,,,1213,205
+conf400/shared,no direct overlap,Raw distance (no null),0.6236280487804878,,,1213,205
+conf400/shared,no direct overlap,Overlap fraction,0.5,,,1213,205
+conf400/shared,no direct overlap,Overlap hypergeometric,0.5,,,1213,205
+conf400/shared,no direct overlap,Target degree,0.5375967866821525,,,1213,205
+conf400/shared,group A cardiometabolic,Proximity (-z),0.6426073926073926,,,684,112
+conf400/shared,group A cardiometabolic,Raw distance (no null),0.6089769605394605,,,684,112
+conf400/shared,group A cardiometabolic,Overlap fraction,0.6253902347652348,,,684,112
+conf400/shared,group A cardiometabolic,Overlap hypergeometric,0.6235171078921079,,,684,112
+conf400/shared,group A cardiometabolic,Target degree,0.3666567807192807,,,684,112
+conf400/shared,group B immune,Proximity (-z),0.6781445786098494,,,684,153
+conf400/shared,group B immune,Raw distance (no null),0.7259333111775784,,,684,153
+conf400/shared,group B immune,Overlap fraction,0.5372339770811023,,,684,153
+conf400/shared,group B immune,Overlap hypergeometric,0.5386679467769531,,,684,153
+conf400/shared,group B immune,Target degree,0.6373287544773089,,,684,153

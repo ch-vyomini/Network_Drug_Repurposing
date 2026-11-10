@@ -1,0 +1,10 @@
+group,disease,n_ontology_ids,genes_any,genes>=0.1_in_net700,genes>=0.1_in_shared,genes>=0.3_in_net700,genes>=0.3_in_shared,genes>=0.5_in_net700,genes>=0.5_in_shared,approved_drugs,drugs_target_in_net700,drugs_target_in_shared,distinct_targets_net700,top_target_share,top_target
+A_cardiometabolic,type 2 diabetes mellitus,3,3694,1807,1378,1082,844,585,452,70,60,57,72,0.2,DPP4
+A_cardiometabolic,hypercholesterolemia,1,1130,516,404,254,200,95,76,27,22,22,11,0.5,HMGCR
+A_cardiometabolic,heart failure,14,934,420,329,236,186,109,92,81,64,53,49,0.12,ACE
+B_immune,rheumatoid arthritis,9,1887,867,664,456,357,171,137,90,75,71,35,0.39,PTGS2
+B_immune,psoriasis,8,910,436,351,249,201,113,100,52,35,33,28,0.29,NR3C1
+B_immune,Crohn disease,11,908,454,354,266,211,151,124,23,19,19,15,0.37,NR3C1
+B_immune,ulcerative colitis,3,1241,557,428,273,215,112,93,32,30,30,19,0.3,NR3C1
+B_immune,asthma,11,1656,765,609,436,346,242,204,90,71,70,33,0.38,ADRB2
+B_immune,systemic lupus erythematosus,11,1131,455,346,251,197,107,81,8,8,8,5,0.62,NR3C1

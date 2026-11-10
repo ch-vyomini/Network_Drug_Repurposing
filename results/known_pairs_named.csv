@@ -1,0 +1,1636 @@
+network,mode,drugId,disease,drug_name,drugType,targets_in_network
+conf400,full,CHEMBL493,type 2 diabetes mellitus,BROMOCRIPTINE,Small molecule,DRD2;DRD3;DRD4
+conf400,full,CHEMBL672,type 2 diabetes mellitus,FENOFIBRATE,Small molecule,PPARA
+conf400,full,CHEMBL1808388,type 2 diabetes mellitus,BEXAGLIFLOZIN,Small molecule,SLC5A2
+conf400,full,CHEMBL2107869,type 2 diabetes mellitus,INSULIN DEGLUDEC,Protein,INSR
+conf400,full,CHEMBL1422,type 2 diabetes mellitus,SITAGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL4594581,type 2 diabetes mellitus,INSULIN ICODEC,Protein,INSR
+conf400,full,CHEMBL2104391,type 2 diabetes mellitus,INSULIN DETEMIR,Protein,INSR
+conf400,full,CHEMBL429910,type 2 diabetes mellitus,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,full,CHEMBL4297658,type 2 diabetes mellitus,IPRAGLIFLOZIN L-PROLINE,Small molecule,SLC5A2
+conf400,full,CHEMBL595,type 2 diabetes mellitus,PIOGLITAZONE,Small molecule,PPARG
+conf400,full,CHEMBL414357,type 2 diabetes mellitus,EXENATIDE,Protein,GLP1R
+conf400,full,CHEMBL142703,type 2 diabetes mellitus,VILDAGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL782,type 2 diabetes mellitus,TOLBUTAMIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL2103825,type 2 diabetes mellitus,CETILISTAT,Small molecule,LIPF;PNLIP
+conf400,full,CHEMBL498,type 2 diabetes mellitus,CHLORPROPAMIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL2108027,type 2 diabetes mellitus,DULAGLUTIDE,Protein,GLP1R
+conf400,full,CHEMBL1650443,type 2 diabetes mellitus,TRELAGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL981,type 2 diabetes mellitus,FENOFIBRIC ACID,Small molecule,PPARA
+conf400,full,CHEMBL783,type 2 diabetes mellitus,NATEGLINIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL2107841,type 2 diabetes mellitus,ALBIGLUTIDE,Protein,GLP1R
+conf400,full,CHEMBL404271,type 2 diabetes mellitus,ACARBOSE,Oligosaccharide,AMY2A;MGAM
+conf400,full,CHEMBL2048484,type 2 diabetes mellitus,CANAGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf400,full,CHEMBL472,type 2 diabetes mellitus,GLYBURIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL4084119,type 2 diabetes mellitus,LIRAGLUTIDE,Protein,GLP1R
+conf400,full,CHEMBL1929396,type 2 diabetes mellitus,ANAGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL1513,type 2 diabetes mellitus,IRBESARTAN,Small molecule,AGTR1
+conf400,full,CHEMBL1201631,type 2 diabetes mellitus,INSULIN HUMAN,Protein,INSR
+conf400,full,CHEMBL476960,type 2 diabetes mellitus,VOGLIBOSE,Small molecule,GAA;MGAM;MGAM2;SI
+conf400,full,CHEMBL1770248,type 2 diabetes mellitus,ERTUGLIFLOZIN,Small molecule,SLC5A2
+conf400,full,CHEMBL376359,type 2 diabetes mellitus,ALOGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL3039507,type 2 diabetes mellitus,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf400,full,CHEMBL1073,type 2 diabetes mellitus,GLIPIZIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL2105762,type 2 diabetes mellitus,OMARIGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL237500,type 2 diabetes mellitus,LINAGLIPTIN,Small molecule,DPP4
+conf400,full,CHEMBL1431,type 2 diabetes mellitus,METFORMIN,Small molecule,GPD2;MT-ND1;MT-ND2;MT-ND3;MT-ND4;MT-ND4L;MT-ND5;MT-ND6;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA5;NDUFA6;NDUFA7;NDUFA8;NDUFA9;NDUFAB1;NDUFAF1;NDUFAF2;NDUFAF3;NDUFAF4;NDUFB1;NDUFB10;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB6;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS1;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+conf400,full,CHEMBL4298005,type 2 diabetes mellitus,MITIGLINIDE CALCIUM DIHYDRATE,Unknown,ABCC8;KCNJ11
+conf400,full,CHEMBL2110731,type 2 diabetes mellitus,TOFOGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf400,full,CHEMBL1561,type 2 diabetes mellitus,MIGLITOL,Small molecule,GAA;MGAM
+conf400,full,CHEMBL2108724,type 2 diabetes mellitus,SEMAGLUTIDE,Protein,GLP1R
+conf400,full,CHEMBL121,type 2 diabetes mellitus,ROSIGLITAZONE,Small molecule,PPARG
+conf400,full,CHEMBL1201497,type 2 diabetes mellitus,INSULIN GLARGINE,Protein,INSR
+conf400,full,CHEMBL2108336,type 2 diabetes mellitus,LIXISENATIDE,Protein,GLP1R
+conf400,full,CHEMBL2107830,type 2 diabetes mellitus,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,full,CHEMBL1272,type 2 diabetes mellitus,REPAGLINIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL398435,type 2 diabetes mellitus,TICAGRELOR,Small molecule,P2RY12
+conf400,full,CHEMBL817,type 2 diabetes mellitus,TOLAZAMIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL1064,type 2 diabetes mellitus,SIMVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL1481,type 2 diabetes mellitus,GLIMEPIRIDE,Small molecule,ABCC8;KCNJ11
+conf400,full,CHEMBL4297839,type 2 diabetes mellitus,TIRZEPATIDE,Protein,GIPR;GLP1R
+conf400,full,CHEMBL2181927,type 2 diabetes mellitus,FINERENONE,Small molecule,NR3C2
+conf400,full,CHEMBL385517,type 2 diabetes mellitus,SAXAGLIPTIN ANHYDROUS,Small molecule,DPP4
+conf400,full,CHEMBL585,heart failure,TRIAMTERENE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf400,full,CHEMBL1201593,heart failure,ALTEPLASE,Enzyme,PLAT
+conf400,full,CHEMBL1201668,heart failure,NESIRITIDE,Protein,NPR1
+conf400,full,CHEMBL2107885,heart failure,RETEPLASE,Enzyme,PLAT
+conf400,full,CHEMBL1560,heart failure,CAPTOPRIL,Small molecule,ACE
+conf400,full,CHEMBL1393,heart failure,SPIRONOLACTONE,Small molecule,NR3C2
+conf400,full,CHEMBL471737,heart failure,IVABRADINE,Small molecule,HCN4
+conf400,full,CHEMBL429910,heart failure,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,full,CHEMBL53463,heart failure,DOXORUBICIN,Small molecule,TOP2A
+conf400,full,CHEMBL344159,heart failure,TOLVAPTAN,Small molecule,AVPR2
+conf400,full,CHEMBL842,heart failure,CHLOROTHIAZIDE,Small molecule,SLC12A3
+conf400,full,CHEMBL1200692,heart failure,OLMESARTAN MEDOXOMIL,Small molecule,AGTR1
+conf400,full,CHEMBL1014,heart failure,CANDESARTAN CILEXETIL,Small molecule,AGTR1
+conf400,full,CHEMBL254219,heart failure,DIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,full,CHEMBL1614,heart failure,DESLANOSIDE,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,full,CHEMBL189,heart failure,MILRINONE,Small molecule,PDE3A
+conf400,full,CHEMBL1763,heart failure,HYDROFLUMETHIAZIDE,Small molecule,SLC12A3
+conf400,full,CHEMBL1755,heart failure,CONIVAPTAN,Small molecule,AVPR1A;AVPR2
+conf400,full,CHEMBL238804,heart failure,SELEXIPAG,Small molecule,PTGIR
+conf400,full,CHEMBL515606,heart failure,CILAZAPRIL,Small molecule,ACE
+conf400,full,CHEMBL12856,heart failure,INAMRINONE,Small molecule,PDE3A
+conf400,full,CHEMBL1095097,heart failure,EPLERENONE,Small molecule,NR3C2
+conf400,full,CHEMBL1139,heart failure,EPOPROSTENOL,Small molecule,PTGIR
+conf400,full,CHEMBL406,heart failure,INDAPAMIDE,Small molecule,SLC12A3
+conf400,full,CHEMBL1148,heart failure,TORSEMIDE,Small molecule,SLC12A1
+conf400,full,CHEMBL1168,heart failure,RAMIPRIL,Small molecule,ACE
+conf400,full,CHEMBL35,heart failure,FUROSEMIDE,Small molecule,SLC12A1
+conf400,full,CHEMBL1592,heart failure,QUINAPRIL,Small molecule,ACE
+conf400,full,CHEMBL2,heart failure,PRAZOSIN,Small molecule,ADRA1A;ADRA1B;ADRA1D
+conf400,full,CHEMBL249856,heart failure,ENOXIMONE,Small molecule,PDE3A;PDE3B
+conf400,full,CHEMBL20,heart failure,ACETAZOLAMIDE,Small molecule,CA1;CA12;CA2;CA4
+conf400,full,CHEMBL1519,heart failure,TRANDOLAPRIL,Small molecule,ACE
+conf400,full,CHEMBL435,heart failure,HYDROCHLOROTHIAZIDE,Small molecule,SLC12A3
+conf400,full,CHEMBL2104386,heart failure,CARPERITIDE,Protein,NPR1;NPR2;NPR3
+conf400,full,CHEMBL1072,heart failure,BUMETANIDE,Small molecule,SLC12A1
+conf400,full,CHEMBL61593,heart failure,CYCLOTHIAZIDE,Small molecule,SLC12A3
+conf400,full,CHEMBL945,heart failure,AMILORIDE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf400,full,CHEMBL13,heart failure,METOPROLOL,Small molecule,ADRB1
+conf400,full,CHEMBL1487,heart failure,ATORVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL1751,heart failure,DIGOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,full,CHEMBL1069,heart failure,VALSARTAN,Small molecule,AGTR1
+conf400,full,CHEMBL3039507,heart failure,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf400,full,CHEMBL723,heart failure,CARVEDILOL,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRB1;ADRB2;ADRB3
+conf400,full,CHEMBL1237,heart failure,LISINOPRIL ANHYDROUS,Small molecule,ACE
+conf400,full,CHEMBL59,heart failure,DOPAMINE,Small molecule,ADRB1
+conf400,full,CHEMBL456,heart failure,ETHACRYNIC ACID,Small molecule,SLC12A1
+conf400,full,CHEMBL4066936,heart failure,VERICIGUAT,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf400,full,CHEMBL6622,heart failure,ISOSORBIDE DINITRATE,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf400,full,CHEMBL434,heart failure,ISOPROTERENOL,Small molecule,ADRB1;ADRB2;ADRB3
+conf400,full,CHEMBL1491,heart failure,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf400,full,CHEMBL1055,heart failure,CHLORTHALIDONE,Small molecule,SLC12A3
+conf400,full,CHEMBL578,heart failure,ENALAPRIL,Small molecule,ACE
+conf400,full,CHEMBL2051955,heart failure,LEVOSIMENDAN,Small molecule,PDE3A;PDE3B;TNNC1;TNNI3;TNNT2
+conf400,full,CHEMBL2107830,heart failure,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,full,CHEMBL878,heart failure,METOLAZONE,Small molecule,SLC12A3
+conf400,full,CHEMBL926,heart failure,DOBUTAMINE,Small molecule,ADRB1;ADRB2
+conf400,full,CHEMBL3137301,heart failure,SACUBITRIL,Small molecule,MME
+conf400,full,CHEMBL2097081,heart failure,NITROPRUSSIDE,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf400,full,CHEMBL3545057,heart failure,ACETYLDIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,full,CHEMBL2181927,heart failure,FINERENONE,Small molecule,NR3C2
+conf400,full,CHEMBL730,heart failure,NITROGLYCERIN,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf400,full,CHEMBL3039598,heart failure,FOSINOPRIL,Small molecule,ACE
+conf400,full,CHEMBL3990033,hypercholesterolemia,INCLISIRAN,Oligonucleotide,PCSK9
+conf400,full,CHEMBL672,hypercholesterolemia,FENOFIBRATE,Small molecule,PPARA
+conf400,full,CHEMBL2220442,hypercholesterolemia,FLUVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL1201753,hypercholesterolemia,PITAVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL1138,hypercholesterolemia,EZETIMIBE,Small molecule,NPC1L1
+conf400,full,CHEMBL981,hypercholesterolemia,FENOFIBRIC ACID,Small molecule,PPARA
+conf400,full,CHEMBL1496,hypercholesterolemia,ROSUVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL2109540,hypercholesterolemia,ALIROCUMAB,Antibody,PCSK9
+conf400,full,CHEMBL1487,hypercholesterolemia,ATORVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL1144,hypercholesterolemia,PRAVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL3545191,hypercholesterolemia,EVINACUMAB,Antibody,ANGPTL3
+conf400,full,CHEMBL3545313,hypercholesterolemia,BEMPEDOIC ACID,Small molecule,ACLY
+conf400,full,CHEMBL503,hypercholesterolemia,LOVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL354541,hypercholesterolemia,LOMITAPIDE,Small molecule,MTTP;P4HB
+conf400,full,CHEMBL1491,hypercholesterolemia,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf400,full,CHEMBL5095052,hypercholesterolemia,INCLISIRAN SODIUM,Oligonucleotide,PCSK9
+conf400,full,CHEMBL2364655,hypercholesterolemia,EVOLOCUMAB,Antibody,PCSK9
+conf400,full,CHEMBL1064,hypercholesterolemia,SIMVASTATIN,Small molecule,HMGCR
+conf400,full,CHEMBL514800,rheumatoid arthritis,APREMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf400,full,CHEMBL571,rheumatoid arthritis,KETOPROFEN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL2105759,rheumatoid arthritis,BARICITINIB,Small molecule,JAK1;JAK2
+conf400,full,CHEMBL960,rheumatoid arthritis,LEFLUNOMIDE,Small molecule,DHODH
+conf400,full,CHEMBL384467,rheumatoid arthritis,DEXAMETHASONE,Small molecule,NR3C1
+conf400,full,CHEMBL1650,rheumatoid arthritis,CORTISONE ACETATE,Small molecule,NR3C1
+conf400,full,CHEMBL1535,rheumatoid arthritis,HYDROXYCHLOROQUINE,Small molecule,TLR7;TLR9
+conf400,full,CHEMBL599,rheumatoid arthritis,MELOXICAM,Small molecule,PTGS2
+conf400,full,CHEMBL1743034,rheumatoid arthritis,IXEKIZUMAB,Antibody,IL17A
+conf400,full,CHEMBL1503,rheumatoid arthritis,OMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf400,full,CHEMBL521,rheumatoid arthritis,IBUPROFEN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL3301607,rheumatoid arthritis,FILGOTINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,full,CHEMBL2364648,rheumatoid arthritis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf400,full,CHEMBL902,rheumatoid arthritis,FAMOTIDINE,Small molecule,HRH2
+conf400,full,CHEMBL221959,rheumatoid arthritis,TOFACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,full,CHEMBL93645,rheumatoid arthritis,ACECLOFENAC,Small molecule,PTGS2
+conf400,full,CHEMBL94081,rheumatoid arthritis,ALCLOFENAC,Small molecule,PTGS1
+conf400,full,CHEMBL389621,rheumatoid arthritis,HYDROCORTISONE,Small molecule,NR3C1
+conf400,full,CHEMBL1071,rheumatoid arthritis,OXAPROZIN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL865,rheumatoid arthritis,VALDECOXIB,Small molecule,PTGS2
+conf400,full,CHEMBL1201265,rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf400,full,CHEMBL1020,rheumatoid arthritis,TOLMETIN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL3622821,rheumatoid arthritis,UPADACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,full,CHEMBL622,rheumatoid arthritis,ETODOLAC,Small molecule,PTGS2
+conf400,full,CHEMBL2108730,rheumatoid arthritis,SARILUMAB,Antibody,IL6R
+conf400,full,CHEMBL1201833,rheumatoid arthritis,GOLIMUMAB,Antibody,TNF
+conf400,full,CHEMBL606,rheumatoid arthritis,MISOPROSTOL,Small molecule,PTGER3
+conf400,full,CHEMBL34259,rheumatoid arthritis,METHOTREXATE,Small molecule,DHFR
+conf400,full,CHEMBL1742996,rheumatoid arthritis,BRODALUMAB,Antibody,IL17RA
+conf400,full,CHEMBL3990029,rheumatoid arthritis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf400,full,CHEMBL1743068,rheumatoid arthritis,SECUKINUMAB,Antibody,IL17A
+conf400,full,CHEMBL1201581,rheumatoid arthritis,INFLIXIMAB,Antibody,TNF
+conf400,full,CHEMBL1201320,rheumatoid arthritis,ESOMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf400,full,CHEMBL527,rheumatoid arthritis,PIROXICAM,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL1364144,rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf400,full,CHEMBL118,rheumatoid arthritis,CELECOXIB,Small molecule,PTGS2
+conf400,full,CHEMBL131,rheumatoid arthritis,PREDNISOLONE,Small molecule,NR3C1
+conf400,full,CHEMBL898,rheumatoid arthritis,DIFLUNISAL,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL1070,rheumatoid arthritis,NABUMETONE,Small molecule,PTGS2
+conf400,full,CHEMBL6,rheumatoid arthritis,INDOMETHACIN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL139,rheumatoid arthritis,DICLOFENAC,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL1201572,rheumatoid arthritis,ETANERCEPT,Protein,TNF
+conf400,full,CHEMBL2107455,rheumatoid arthritis,IGURATIMOD,Small molecule,MIF;PTGS2;TRAF3IP2
+conf400,full,CHEMBL563,rheumatoid arthritis,FLURBIPROFEN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL421,rheumatoid arthritis,SULFASALAZINE,Small molecule,ALOX5;PTGS1;PTGS2
+conf400,full,CHEMBL1201835,rheumatoid arthritis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf400,full,CHEMBL509,rheumatoid arthritis,MECLOFENAMIC ACID,Small molecule,ALOX5;PTGS1;PTGS2
+conf400,full,CHEMBL1743054,rheumatoid arthritis,OZORALIZUMAB,Antibody,TNF
+conf400,full,CHEMBL1201570,rheumatoid arthritis,ANAKINRA,Protein,IL1R1
+conf400,full,CHEMBL416146,rheumatoid arthritis,ETORICOXIB,Small molecule,PTGS2
+conf400,full,CHEMBL15770,rheumatoid arthritis,SULINDAC,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL1504,rheumatoid arthritis,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf400,full,CHEMBL175,rheumatoid arthritis,DEXIBUPROFEN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL1237022,rheumatoid arthritis,TOCILIZUMAB,Antibody,IL6R
+conf400,full,CHEMBL1201576,rheumatoid arthritis,RITUXIMAB,Antibody,MS4A1
+conf400,full,CHEMBL650,rheumatoid arthritis,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf400,full,CHEMBL154,rheumatoid arthritis,NAPROXEN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL3137308,rheumatoid arthritis,PEFICITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,full,CHEMBL1542,rheumatoid arthritis,AZATHIOPRINE,Small molecule,PPAT
+conf400,full,CHEMBL1201831,rheumatoid arthritis,CERTOLIZUMAB PEGOL,Antibody,TNF
+conf400,full,CHEMBL1297,rheumatoid arthritis,FENOPROFEN,Small molecule,PTGS1;PTGS2
+conf400,full,CHEMBL160,rheumatoid arthritis,CYCLOSPORINE,Protein,PPIA
+conf400,full,CHEMBL635,rheumatoid arthritis,PREDNISONE,Small molecule,NR3C1
+conf400,full,CHEMBL1201834,rheumatoid arthritis,CANAKINUMAB,Antibody,IL1B
+conf400,full,CHEMBL1201302,rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,full,CHEMBL1201823,rheumatoid arthritis,ABATACEPT,Protein,CD80;CD86
+conf400,full,CHEMBL1201580,rheumatoid arthritis,ADALIMUMAB,Antibody,TNF
+conf400,full,CHEMBL1161,asthma,MOMETASONE FUROATE,Small molecule,NR3C1
+conf400,full,CHEMBL1504,asthma,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf400,full,CHEMBL2107884,asthma,RESLIZUMAB,Antibody,IL5
+conf400,full,CHEMBL1760,asthma,TERBUTALINE,Small molecule,ADRB2
+conf400,full,CHEMBL1194325,asthma,ACLIDINIUM,Small molecule,CHRM3
+conf400,full,CHEMBL1473,asthma,FLUTICASONE PROPIONATE,Small molecule,NR3C1
+conf400,full,CHEMBL521589,asthma,BAMBUTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL603,asthma,ZAFIRLUKAST,Small molecule,CYSLTR1
+conf400,full,CHEMBL978,asthma,METHACHOLINE,Small molecule,CHRM3
+conf400,full,CHEMBL21333,asthma,PRANLUKAST,Small molecule,CYSLTR1
+conf400,full,CHEMBL1370,asthma,BUDESONIDE,Small molecule,NR3C1
+conf400,full,CHEMBL193240,asthma,ROFLUMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf400,full,CHEMBL2040682,asthma,CICLESONIDE,Small molecule,NR3C1
+conf400,full,CHEMBL4650469,asthma,DEPEMOKIMAB,Antibody,IL5
+conf400,full,CHEMBL650,asthma,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf400,full,CHEMBL1095777,asthma,INDACATEROL,Small molecule,ADRB2
+conf400,full,CHEMBL256087,asthma,MENTHOL,Small molecule,TRPA1;TRPM8
+conf400,full,CHEMBL1201265,asthma,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf400,full,CHEMBL1201295,asthma,BITOLTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL1742991,asthma,BENRALIZUMAB,Antibody,IL5RA
+conf400,full,CHEMBL1200774,asthma,FLUPREDNISOLONE,Small molecule,NR3C1
+conf400,full,CHEMBL787,asthma,MONTELUKAST,Small molecule,CYSLTR1
+conf400,full,CHEMBL1364144,asthma,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf400,full,CHEMBL1201273,asthma,PROTOKYLOL,Small molecule,ADRB2
+conf400,full,CHEMBL384467,asthma,DEXAMETHASONE,Small molecule,NR3C1
+conf400,full,CHEMBL2108429,asthma,MEPOLIZUMAB,Antibody,IL5
+conf400,full,CHEMBL1650,asthma,CORTISONE ACETATE,Small molecule,NR3C1
+conf400,full,CHEMBL1094966,asthma,PIRBUTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL131,asthma,PREDNISOLONE,Small molecule,NR3C1
+conf400,full,CHEMBL1201213,asthma,ISOETHARINE,Small molecule,ADRB2
+conf400,full,CHEMBL714,asthma,ALBUTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL1621597,asthma,IPRATROPIUM,Small molecule,CHRM3
+conf400,full,CHEMBL190,asthma,THEOPHYLLINE ANHYDROUS,Protein,ADORA1;ADORA2A;ADORA2B;ADORA3;PDE3A;PDE3B;PDE4A;PDE4B;PDE4C;PDE4D
+conf400,full,CHEMBL1256786,asthma,FORMOTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL1676,asthma,FLUTICASONE FUROATE,Small molecule,NR3C1
+conf400,full,CHEMBL1200538,asthma,BETAMETHASONE ACETATE,Small molecule,NR3C1
+conf400,full,CHEMBL88055,asthma,RIMITEROL,Small molecule,ADRB2
+conf400,full,CHEMBL679,asthma,EPINEPHRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf400,full,CHEMBL776,asthma,METAPROTERENOL,Small molecule,ADRB2
+conf400,full,CHEMBL1198857,asthma,VILANTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL1201231,asthma,PREDNISOLONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,full,CHEMBL1002,asthma,LEVOSALBUTAMOL,Small molecule,ADRB2
+conf400,full,CHEMBL635,asthma,PREDNISONE,Small molecule,NR3C1
+conf400,full,CHEMBL1263,asthma,SALMETEROL,Small molecule,ADRB2
+conf400,full,CHEMBL1187833,asthma,UMECLIDINIUM,Small molecule,CHRM3
+conf400,full,CHEMBL1200500,asthma,BECLOMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf400,full,CHEMBL211456,asthma,EPHEDRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf400,full,CHEMBL1201335,asthma,GLYCOPYRRONIUM,Small molecule,CHRM1;CHRM2;CHRM3;CHRM4;CHRM5
+conf400,full,CHEMBL160519,asthma,PROCATEROL,Small molecule,ADRB2
+conf400,full,CHEMBL977,asthma,HYDROCORTISONE HEMISUCCINATE ANHYDROUS,Small molecule,NR3C1
+conf400,full,CHEMBL389621,asthma,HYDROCORTISONE,Small molecule,NR3C1
+conf400,full,CHEMBL1201302,asthma,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,full,CHEMBL32800,asthma,FENOTEROL,Small molecule,ADRB2
+conf400,full,CHEMBL93,asthma,ZILEUTON,Small molecule,ALOX5
+conf400,full,CHEMBL1512,asthma,FLUNISOLIDE,Small molecule,NR3C1
+conf400,full,CHEMBL1900528,asthma,TIOTROPIUM,Small molecule,CHRM3
+conf400,full,CHEMBL3707229,asthma,TEZEPELUMAB,Antibody,TSLP
+conf400,full,CHEMBL2108675,asthma,DUPILUMAB,Antibody,IL4R
+conf400,full,CHEMBL514800,psoriasis,APREMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf400,full,CHEMBL989,psoriasis,FLUOCINOLONE ACETONIDE,Small molecule,NR3C1
+conf400,full,CHEMBL4297911,psoriasis,SPESOLIMAB,Antibody,IL1RAP
+conf400,full,CHEMBL1743068,psoriasis,SECUKINUMAB,Antibody,IL17A
+conf400,full,CHEMBL1201581,psoriasis,INFLIXIMAB,Antibody,TNF
+conf400,full,CHEMBL193240,psoriasis,ROFLUMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf400,full,CHEMBL1200384,psoriasis,BETAMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf400,full,CHEMBL1657,psoriasis,TAZAROTENE,Small molecule,RARA;RARB;RARG
+conf400,full,CHEMBL1131,psoriasis,ACITRETIN,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf400,full,CHEMBL256087,psoriasis,MENTHOL,Small molecule,TRPA1;TRPM8
+conf400,full,CHEMBL2107333,psoriasis,DIMETHYL FUMARATE,Small molecule,KEAP1
+conf400,full,CHEMBL515914,psoriasis,AZARIBINE,Small molecule,UMPS
+conf400,full,CHEMBL464,psoriasis,ETRETINATE,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf400,full,CHEMBL384467,psoriasis,DEXAMETHASONE,Small molecule,NR3C1
+conf400,full,CHEMBL1201575,psoriasis,EFALIZUMAB,Antibody,ITGAL;ITGB2
+conf400,full,CHEMBL4297700,psoriasis,BIMEKIZUMAB,Antibody,IL17A;IL17F
+conf400,full,CHEMBL1766,psoriasis,DESOXIMETASONE,Small molecule,NR3C1
+conf400,full,CHEMBL1200908,psoriasis,HALOBETASOL PROPIONATE,Small molecule,NR3C1
+conf400,full,CHEMBL4596392,psoriasis,CRAVACITINIB,Small molecule,TYK2
+conf400,full,CHEMBL1743034,psoriasis,IXEKIZUMAB,Antibody,IL17A
+conf400,full,CHEMBL1159650,psoriasis,CLOBETASOL PROPIONATE,Small molecule,NR3C1
+conf400,full,CHEMBL131,psoriasis,PREDNISOLONE,Small molecule,NR3C1
+conf400,full,CHEMBL259571,psoriasis,TAPINAROF,Small molecule,AHR
+conf400,full,CHEMBL160,psoriasis,CYCLOSPORINE,Protein,PPIA
+conf400,full,CHEMBL34259,psoriasis,METHOTREXATE,Small molecule,DHFR
+conf400,full,CHEMBL1201572,psoriasis,ETANERCEPT,Protein,TNF
+conf400,full,CHEMBL635,psoriasis,PREDNISONE,Small molecule,NR3C1
+conf400,full,CHEMBL2108681,psoriasis,TILDRAKIZUMAB,Antibody,IL12B;IL23A
+conf400,full,CHEMBL2364648,psoriasis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf400,full,CHEMBL389621,psoriasis,HYDROCORTISONE,Small molecule,NR3C1
+conf400,full,CHEMBL1201302,psoriasis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,full,CHEMBL1742996,psoriasis,BRODALUMAB,Antibody,IL17RA
+conf400,full,CHEMBL1201835,psoriasis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf400,full,CHEMBL1201580,psoriasis,ADALIMUMAB,Antibody,TNF
+conf400,full,CHEMBL3990029,psoriasis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf400,shared,CHEMBL493,type 2 diabetes mellitus,BROMOCRIPTINE,Small molecule,DRD2;DRD3;DRD4
+conf400,shared,CHEMBL672,type 2 diabetes mellitus,FENOFIBRATE,Small molecule,PPARA
+conf400,shared,CHEMBL1808388,type 2 diabetes mellitus,BEXAGLIFLOZIN,Small molecule,SLC5A2
+conf400,shared,CHEMBL2107869,type 2 diabetes mellitus,INSULIN DEGLUDEC,Protein,INSR
+conf400,shared,CHEMBL1422,type 2 diabetes mellitus,SITAGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL4594581,type 2 diabetes mellitus,INSULIN ICODEC,Protein,INSR
+conf400,shared,CHEMBL2104391,type 2 diabetes mellitus,INSULIN DETEMIR,Protein,INSR
+conf400,shared,CHEMBL429910,type 2 diabetes mellitus,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,shared,CHEMBL4297658,type 2 diabetes mellitus,IPRAGLIFLOZIN L-PROLINE,Small molecule,SLC5A2
+conf400,shared,CHEMBL595,type 2 diabetes mellitus,PIOGLITAZONE,Small molecule,PPARG
+conf400,shared,CHEMBL414357,type 2 diabetes mellitus,EXENATIDE,Protein,GLP1R
+conf400,shared,CHEMBL142703,type 2 diabetes mellitus,VILDAGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL782,type 2 diabetes mellitus,TOLBUTAMIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL2103825,type 2 diabetes mellitus,CETILISTAT,Small molecule,LIPF;PNLIP
+conf400,shared,CHEMBL498,type 2 diabetes mellitus,CHLORPROPAMIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL2108027,type 2 diabetes mellitus,DULAGLUTIDE,Protein,GLP1R
+conf400,shared,CHEMBL1650443,type 2 diabetes mellitus,TRELAGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL981,type 2 diabetes mellitus,FENOFIBRIC ACID,Small molecule,PPARA
+conf400,shared,CHEMBL783,type 2 diabetes mellitus,NATEGLINIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL2107841,type 2 diabetes mellitus,ALBIGLUTIDE,Protein,GLP1R
+conf400,shared,CHEMBL2048484,type 2 diabetes mellitus,CANAGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf400,shared,CHEMBL472,type 2 diabetes mellitus,GLYBURIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL4084119,type 2 diabetes mellitus,LIRAGLUTIDE,Protein,GLP1R
+conf400,shared,CHEMBL1929396,type 2 diabetes mellitus,ANAGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL1513,type 2 diabetes mellitus,IRBESARTAN,Small molecule,AGTR1
+conf400,shared,CHEMBL1201631,type 2 diabetes mellitus,INSULIN HUMAN,Protein,INSR
+conf400,shared,CHEMBL1770248,type 2 diabetes mellitus,ERTUGLIFLOZIN,Small molecule,SLC5A2
+conf400,shared,CHEMBL376359,type 2 diabetes mellitus,ALOGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL3039507,type 2 diabetes mellitus,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf400,shared,CHEMBL1073,type 2 diabetes mellitus,GLIPIZIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL2105762,type 2 diabetes mellitus,OMARIGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL237500,type 2 diabetes mellitus,LINAGLIPTIN,Small molecule,DPP4
+conf400,shared,CHEMBL1431,type 2 diabetes mellitus,METFORMIN,Small molecule,MT-ND1;MT-ND2;MT-ND3;MT-ND4;MT-ND4L;MT-ND5;MT-ND6;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA5;NDUFA6;NDUFA7;NDUFA8;NDUFA9;NDUFAB1;NDUFAF1;NDUFAF2;NDUFAF3;NDUFAF4;NDUFB1;NDUFB10;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB6;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS1;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+conf400,shared,CHEMBL4298005,type 2 diabetes mellitus,MITIGLINIDE CALCIUM DIHYDRATE,Unknown,ABCC8;KCNJ11
+conf400,shared,CHEMBL2110731,type 2 diabetes mellitus,TOFOGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf400,shared,CHEMBL2108724,type 2 diabetes mellitus,SEMAGLUTIDE,Protein,GLP1R
+conf400,shared,CHEMBL121,type 2 diabetes mellitus,ROSIGLITAZONE,Small molecule,PPARG
+conf400,shared,CHEMBL1201497,type 2 diabetes mellitus,INSULIN GLARGINE,Protein,INSR
+conf400,shared,CHEMBL2108336,type 2 diabetes mellitus,LIXISENATIDE,Protein,GLP1R
+conf400,shared,CHEMBL2107830,type 2 diabetes mellitus,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,shared,CHEMBL1272,type 2 diabetes mellitus,REPAGLINIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL398435,type 2 diabetes mellitus,TICAGRELOR,Small molecule,P2RY12
+conf400,shared,CHEMBL817,type 2 diabetes mellitus,TOLAZAMIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL1064,type 2 diabetes mellitus,SIMVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL1481,type 2 diabetes mellitus,GLIMEPIRIDE,Small molecule,ABCC8;KCNJ11
+conf400,shared,CHEMBL4297839,type 2 diabetes mellitus,TIRZEPATIDE,Protein,GIPR;GLP1R
+conf400,shared,CHEMBL2181927,type 2 diabetes mellitus,FINERENONE,Small molecule,NR3C2
+conf400,shared,CHEMBL385517,type 2 diabetes mellitus,SAXAGLIPTIN ANHYDROUS,Small molecule,DPP4
+conf400,shared,CHEMBL585,heart failure,TRIAMTERENE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf400,shared,CHEMBL1201593,heart failure,ALTEPLASE,Enzyme,PLAT
+conf400,shared,CHEMBL1201668,heart failure,NESIRITIDE,Protein,NPR1
+conf400,shared,CHEMBL2107885,heart failure,RETEPLASE,Enzyme,PLAT
+conf400,shared,CHEMBL1560,heart failure,CAPTOPRIL,Small molecule,ACE
+conf400,shared,CHEMBL1393,heart failure,SPIRONOLACTONE,Small molecule,NR3C2
+conf400,shared,CHEMBL471737,heart failure,IVABRADINE,Small molecule,HCN4
+conf400,shared,CHEMBL429910,heart failure,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,shared,CHEMBL53463,heart failure,DOXORUBICIN,Small molecule,TOP2A
+conf400,shared,CHEMBL344159,heart failure,TOLVAPTAN,Small molecule,AVPR2
+conf400,shared,CHEMBL1200692,heart failure,OLMESARTAN MEDOXOMIL,Small molecule,AGTR1
+conf400,shared,CHEMBL1014,heart failure,CANDESARTAN CILEXETIL,Small molecule,AGTR1
+conf400,shared,CHEMBL254219,heart failure,DIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,shared,CHEMBL1614,heart failure,DESLANOSIDE,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,shared,CHEMBL189,heart failure,MILRINONE,Small molecule,PDE3A
+conf400,shared,CHEMBL1755,heart failure,CONIVAPTAN,Small molecule,AVPR1A;AVPR2
+conf400,shared,CHEMBL238804,heart failure,SELEXIPAG,Small molecule,PTGIR
+conf400,shared,CHEMBL515606,heart failure,CILAZAPRIL,Small molecule,ACE
+conf400,shared,CHEMBL12856,heart failure,INAMRINONE,Small molecule,PDE3A
+conf400,shared,CHEMBL1095097,heart failure,EPLERENONE,Small molecule,NR3C2
+conf400,shared,CHEMBL1139,heart failure,EPOPROSTENOL,Small molecule,PTGIR
+conf400,shared,CHEMBL1168,heart failure,RAMIPRIL,Small molecule,ACE
+conf400,shared,CHEMBL1592,heart failure,QUINAPRIL,Small molecule,ACE
+conf400,shared,CHEMBL2,heart failure,PRAZOSIN,Small molecule,ADRA1A;ADRA1B;ADRA1D
+conf400,shared,CHEMBL249856,heart failure,ENOXIMONE,Small molecule,PDE3A;PDE3B
+conf400,shared,CHEMBL20,heart failure,ACETAZOLAMIDE,Small molecule,CA2
+conf400,shared,CHEMBL1519,heart failure,TRANDOLAPRIL,Small molecule,ACE
+conf400,shared,CHEMBL2104386,heart failure,CARPERITIDE,Protein,NPR1;NPR2;NPR3
+conf400,shared,CHEMBL945,heart failure,AMILORIDE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf400,shared,CHEMBL13,heart failure,METOPROLOL,Small molecule,ADRB1
+conf400,shared,CHEMBL1487,heart failure,ATORVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL1751,heart failure,DIGOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,shared,CHEMBL1069,heart failure,VALSARTAN,Small molecule,AGTR1
+conf400,shared,CHEMBL3039507,heart failure,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf400,shared,CHEMBL723,heart failure,CARVEDILOL,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRB1;ADRB2;ADRB3
+conf400,shared,CHEMBL1237,heart failure,LISINOPRIL ANHYDROUS,Small molecule,ACE
+conf400,shared,CHEMBL59,heart failure,DOPAMINE,Small molecule,ADRB1
+conf400,shared,CHEMBL434,heart failure,ISOPROTERENOL,Small molecule,ADRB1;ADRB2;ADRB3
+conf400,shared,CHEMBL1491,heart failure,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf400,shared,CHEMBL578,heart failure,ENALAPRIL,Small molecule,ACE
+conf400,shared,CHEMBL2051955,heart failure,LEVOSIMENDAN,Small molecule,PDE3A;PDE3B;TNNC1;TNNI3;TNNT2
+conf400,shared,CHEMBL2107830,heart failure,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf400,shared,CHEMBL926,heart failure,DOBUTAMINE,Small molecule,ADRB1;ADRB2
+conf400,shared,CHEMBL3137301,heart failure,SACUBITRIL,Small molecule,MME
+conf400,shared,CHEMBL3545057,heart failure,ACETYLDIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf400,shared,CHEMBL2181927,heart failure,FINERENONE,Small molecule,NR3C2
+conf400,shared,CHEMBL3039598,heart failure,FOSINOPRIL,Small molecule,ACE
+conf400,shared,CHEMBL3990033,hypercholesterolemia,INCLISIRAN,Oligonucleotide,PCSK9
+conf400,shared,CHEMBL672,hypercholesterolemia,FENOFIBRATE,Small molecule,PPARA
+conf400,shared,CHEMBL2220442,hypercholesterolemia,FLUVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL1201753,hypercholesterolemia,PITAVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL981,hypercholesterolemia,FENOFIBRIC ACID,Small molecule,PPARA
+conf400,shared,CHEMBL1496,hypercholesterolemia,ROSUVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL2109540,hypercholesterolemia,ALIROCUMAB,Antibody,PCSK9
+conf400,shared,CHEMBL1487,hypercholesterolemia,ATORVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL1144,hypercholesterolemia,PRAVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL3545191,hypercholesterolemia,EVINACUMAB,Antibody,ANGPTL3
+conf400,shared,CHEMBL3545313,hypercholesterolemia,BEMPEDOIC ACID,Small molecule,ACLY
+conf400,shared,CHEMBL503,hypercholesterolemia,LOVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL354541,hypercholesterolemia,LOMITAPIDE,Small molecule,MTTP;P4HB
+conf400,shared,CHEMBL1491,hypercholesterolemia,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf400,shared,CHEMBL5095052,hypercholesterolemia,INCLISIRAN SODIUM,Oligonucleotide,PCSK9
+conf400,shared,CHEMBL2364655,hypercholesterolemia,EVOLOCUMAB,Antibody,PCSK9
+conf400,shared,CHEMBL1064,hypercholesterolemia,SIMVASTATIN,Small molecule,HMGCR
+conf400,shared,CHEMBL514800,rheumatoid arthritis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf400,shared,CHEMBL571,rheumatoid arthritis,KETOPROFEN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL2105759,rheumatoid arthritis,BARICITINIB,Small molecule,JAK1;JAK2
+conf400,shared,CHEMBL384467,rheumatoid arthritis,DEXAMETHASONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1650,rheumatoid arthritis,CORTISONE ACETATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1535,rheumatoid arthritis,HYDROXYCHLOROQUINE,Small molecule,TLR7;TLR9
+conf400,shared,CHEMBL599,rheumatoid arthritis,MELOXICAM,Small molecule,PTGS2
+conf400,shared,CHEMBL1743034,rheumatoid arthritis,IXEKIZUMAB,Antibody,IL17A
+conf400,shared,CHEMBL1503,rheumatoid arthritis,OMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf400,shared,CHEMBL521,rheumatoid arthritis,IBUPROFEN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL3301607,rheumatoid arthritis,FILGOTINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,shared,CHEMBL2364648,rheumatoid arthritis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf400,shared,CHEMBL221959,rheumatoid arthritis,TOFACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,shared,CHEMBL93645,rheumatoid arthritis,ACECLOFENAC,Small molecule,PTGS2
+conf400,shared,CHEMBL94081,rheumatoid arthritis,ALCLOFENAC,Small molecule,PTGS1
+conf400,shared,CHEMBL389621,rheumatoid arthritis,HYDROCORTISONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1071,rheumatoid arthritis,OXAPROZIN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL865,rheumatoid arthritis,VALDECOXIB,Small molecule,PTGS2
+conf400,shared,CHEMBL1201265,rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1020,rheumatoid arthritis,TOLMETIN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL3622821,rheumatoid arthritis,UPADACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,shared,CHEMBL622,rheumatoid arthritis,ETODOLAC,Small molecule,PTGS2
+conf400,shared,CHEMBL2108730,rheumatoid arthritis,SARILUMAB,Antibody,IL6R
+conf400,shared,CHEMBL1201833,rheumatoid arthritis,GOLIMUMAB,Antibody,TNF
+conf400,shared,CHEMBL606,rheumatoid arthritis,MISOPROSTOL,Small molecule,PTGER3
+conf400,shared,CHEMBL1742996,rheumatoid arthritis,BRODALUMAB,Antibody,IL17RA
+conf400,shared,CHEMBL3990029,rheumatoid arthritis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf400,shared,CHEMBL1743068,rheumatoid arthritis,SECUKINUMAB,Antibody,IL17A
+conf400,shared,CHEMBL1201581,rheumatoid arthritis,INFLIXIMAB,Antibody,TNF
+conf400,shared,CHEMBL1201320,rheumatoid arthritis,ESOMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf400,shared,CHEMBL527,rheumatoid arthritis,PIROXICAM,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1364144,rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf400,shared,CHEMBL118,rheumatoid arthritis,CELECOXIB,Small molecule,PTGS2
+conf400,shared,CHEMBL131,rheumatoid arthritis,PREDNISOLONE,Small molecule,NR3C1
+conf400,shared,CHEMBL898,rheumatoid arthritis,DIFLUNISAL,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1070,rheumatoid arthritis,NABUMETONE,Small molecule,PTGS2
+conf400,shared,CHEMBL6,rheumatoid arthritis,INDOMETHACIN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL139,rheumatoid arthritis,DICLOFENAC,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1201572,rheumatoid arthritis,ETANERCEPT,Protein,TNF
+conf400,shared,CHEMBL2107455,rheumatoid arthritis,IGURATIMOD,Small molecule,MIF;PTGS2;TRAF3IP2
+conf400,shared,CHEMBL563,rheumatoid arthritis,FLURBIPROFEN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL421,rheumatoid arthritis,SULFASALAZINE,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1201835,rheumatoid arthritis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf400,shared,CHEMBL509,rheumatoid arthritis,MECLOFENAMIC ACID,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1743054,rheumatoid arthritis,OZORALIZUMAB,Antibody,TNF
+conf400,shared,CHEMBL1201570,rheumatoid arthritis,ANAKINRA,Protein,IL1R1
+conf400,shared,CHEMBL416146,rheumatoid arthritis,ETORICOXIB,Small molecule,PTGS2
+conf400,shared,CHEMBL15770,rheumatoid arthritis,SULINDAC,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1504,rheumatoid arthritis,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf400,shared,CHEMBL175,rheumatoid arthritis,DEXIBUPROFEN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL1237022,rheumatoid arthritis,TOCILIZUMAB,Antibody,IL6R
+conf400,shared,CHEMBL650,rheumatoid arthritis,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf400,shared,CHEMBL154,rheumatoid arthritis,NAPROXEN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL3137308,rheumatoid arthritis,PEFICITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf400,shared,CHEMBL1542,rheumatoid arthritis,AZATHIOPRINE,Small molecule,PPAT
+conf400,shared,CHEMBL1201831,rheumatoid arthritis,CERTOLIZUMAB PEGOL,Antibody,TNF
+conf400,shared,CHEMBL1297,rheumatoid arthritis,FENOPROFEN,Small molecule,PTGS1;PTGS2
+conf400,shared,CHEMBL160,rheumatoid arthritis,CYCLOSPORINE,Protein,PPIA
+conf400,shared,CHEMBL635,rheumatoid arthritis,PREDNISONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201834,rheumatoid arthritis,CANAKINUMAB,Antibody,IL1B
+conf400,shared,CHEMBL1201302,rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,shared,CHEMBL1201823,rheumatoid arthritis,ABATACEPT,Protein,CD80;CD86
+conf400,shared,CHEMBL1201580,rheumatoid arthritis,ADALIMUMAB,Antibody,TNF
+conf400,shared,CHEMBL1161,asthma,MOMETASONE FUROATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1504,asthma,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf400,shared,CHEMBL2107884,asthma,RESLIZUMAB,Antibody,IL5
+conf400,shared,CHEMBL1760,asthma,TERBUTALINE,Small molecule,ADRB2
+conf400,shared,CHEMBL1194325,asthma,ACLIDINIUM,Small molecule,CHRM3
+conf400,shared,CHEMBL1473,asthma,FLUTICASONE PROPIONATE,Small molecule,NR3C1
+conf400,shared,CHEMBL521589,asthma,BAMBUTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL603,asthma,ZAFIRLUKAST,Small molecule,CYSLTR1
+conf400,shared,CHEMBL978,asthma,METHACHOLINE,Small molecule,CHRM3
+conf400,shared,CHEMBL21333,asthma,PRANLUKAST,Small molecule,CYSLTR1
+conf400,shared,CHEMBL1370,asthma,BUDESONIDE,Small molecule,NR3C1
+conf400,shared,CHEMBL193240,asthma,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf400,shared,CHEMBL2040682,asthma,CICLESONIDE,Small molecule,NR3C1
+conf400,shared,CHEMBL4650469,asthma,DEPEMOKIMAB,Antibody,IL5
+conf400,shared,CHEMBL650,asthma,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1095777,asthma,INDACATEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL256087,asthma,MENTHOL,Small molecule,TRPA1
+conf400,shared,CHEMBL1201265,asthma,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201295,asthma,BITOLTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL1742991,asthma,BENRALIZUMAB,Antibody,IL5RA
+conf400,shared,CHEMBL1200774,asthma,FLUPREDNISOLONE,Small molecule,NR3C1
+conf400,shared,CHEMBL787,asthma,MONTELUKAST,Small molecule,CYSLTR1
+conf400,shared,CHEMBL1364144,asthma,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201273,asthma,PROTOKYLOL,Small molecule,ADRB2
+conf400,shared,CHEMBL384467,asthma,DEXAMETHASONE,Small molecule,NR3C1
+conf400,shared,CHEMBL2108429,asthma,MEPOLIZUMAB,Antibody,IL5
+conf400,shared,CHEMBL1650,asthma,CORTISONE ACETATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1094966,asthma,PIRBUTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL131,asthma,PREDNISOLONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201213,asthma,ISOETHARINE,Small molecule,ADRB2
+conf400,shared,CHEMBL714,asthma,ALBUTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL1621597,asthma,IPRATROPIUM,Small molecule,CHRM3
+conf400,shared,CHEMBL190,asthma,THEOPHYLLINE ANHYDROUS,Protein,ADORA1;ADORA2A;ADORA2B;ADORA3;PDE3A;PDE3B;PDE4B;PDE4D
+conf400,shared,CHEMBL1256786,asthma,FORMOTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL1676,asthma,FLUTICASONE FUROATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1200538,asthma,BETAMETHASONE ACETATE,Small molecule,NR3C1
+conf400,shared,CHEMBL88055,asthma,RIMITEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL679,asthma,EPINEPHRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf400,shared,CHEMBL776,asthma,METAPROTERENOL,Small molecule,ADRB2
+conf400,shared,CHEMBL1198857,asthma,VILANTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL1201231,asthma,PREDNISOLONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,shared,CHEMBL1002,asthma,LEVOSALBUTAMOL,Small molecule,ADRB2
+conf400,shared,CHEMBL635,asthma,PREDNISONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1263,asthma,SALMETEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL1187833,asthma,UMECLIDINIUM,Small molecule,CHRM3
+conf400,shared,CHEMBL1200500,asthma,BECLOMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf400,shared,CHEMBL211456,asthma,EPHEDRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf400,shared,CHEMBL1201335,asthma,GLYCOPYRRONIUM,Small molecule,CHRM1;CHRM2;CHRM3;CHRM4;CHRM5
+conf400,shared,CHEMBL160519,asthma,PROCATEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL977,asthma,HYDROCORTISONE HEMISUCCINATE ANHYDROUS,Small molecule,NR3C1
+conf400,shared,CHEMBL389621,asthma,HYDROCORTISONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201302,asthma,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,shared,CHEMBL32800,asthma,FENOTEROL,Small molecule,ADRB2
+conf400,shared,CHEMBL1512,asthma,FLUNISOLIDE,Small molecule,NR3C1
+conf400,shared,CHEMBL1900528,asthma,TIOTROPIUM,Small molecule,CHRM3
+conf400,shared,CHEMBL3707229,asthma,TEZEPELUMAB,Antibody,TSLP
+conf400,shared,CHEMBL2108675,asthma,DUPILUMAB,Antibody,IL4R
+conf400,shared,CHEMBL514800,psoriasis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf400,shared,CHEMBL989,psoriasis,FLUOCINOLONE ACETONIDE,Small molecule,NR3C1
+conf400,shared,CHEMBL4297911,psoriasis,SPESOLIMAB,Antibody,IL1RAP
+conf400,shared,CHEMBL1743068,psoriasis,SECUKINUMAB,Antibody,IL17A
+conf400,shared,CHEMBL1201581,psoriasis,INFLIXIMAB,Antibody,TNF
+conf400,shared,CHEMBL193240,psoriasis,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf400,shared,CHEMBL1200384,psoriasis,BETAMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf400,shared,CHEMBL1657,psoriasis,TAZAROTENE,Small molecule,RARA;RARB;RARG
+conf400,shared,CHEMBL1131,psoriasis,ACITRETIN,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf400,shared,CHEMBL256087,psoriasis,MENTHOL,Small molecule,TRPA1
+conf400,shared,CHEMBL2107333,psoriasis,DIMETHYL FUMARATE,Small molecule,KEAP1
+conf400,shared,CHEMBL464,psoriasis,ETRETINATE,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf400,shared,CHEMBL384467,psoriasis,DEXAMETHASONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201575,psoriasis,EFALIZUMAB,Antibody,ITGAL;ITGB2
+conf400,shared,CHEMBL4297700,psoriasis,BIMEKIZUMAB,Antibody,IL17A;IL17F
+conf400,shared,CHEMBL1766,psoriasis,DESOXIMETASONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1200908,psoriasis,HALOBETASOL PROPIONATE,Small molecule,NR3C1
+conf400,shared,CHEMBL4596392,psoriasis,CRAVACITINIB,Small molecule,TYK2
+conf400,shared,CHEMBL1743034,psoriasis,IXEKIZUMAB,Antibody,IL17A
+conf400,shared,CHEMBL1159650,psoriasis,CLOBETASOL PROPIONATE,Small molecule,NR3C1
+conf400,shared,CHEMBL131,psoriasis,PREDNISOLONE,Small molecule,NR3C1
+conf400,shared,CHEMBL259571,psoriasis,TAPINAROF,Small molecule,AHR
+conf400,shared,CHEMBL160,psoriasis,CYCLOSPORINE,Protein,PPIA
+conf400,shared,CHEMBL1201572,psoriasis,ETANERCEPT,Protein,TNF
+conf400,shared,CHEMBL635,psoriasis,PREDNISONE,Small molecule,NR3C1
+conf400,shared,CHEMBL2108681,psoriasis,TILDRAKIZUMAB,Antibody,IL12B;IL23A
+conf400,shared,CHEMBL2364648,psoriasis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf400,shared,CHEMBL389621,psoriasis,HYDROCORTISONE,Small molecule,NR3C1
+conf400,shared,CHEMBL1201302,psoriasis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf400,shared,CHEMBL1742996,psoriasis,BRODALUMAB,Antibody,IL17RA
+conf400,shared,CHEMBL1201835,psoriasis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf400,shared,CHEMBL1201580,psoriasis,ADALIMUMAB,Antibody,TNF
+conf400,shared,CHEMBL3990029,psoriasis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf700,full,CHEMBL493,type 2 diabetes mellitus,BROMOCRIPTINE,Small molecule,DRD2;DRD3;DRD4
+conf700,full,CHEMBL672,type 2 diabetes mellitus,FENOFIBRATE,Small molecule,PPARA
+conf700,full,CHEMBL1808388,type 2 diabetes mellitus,BEXAGLIFLOZIN,Small molecule,SLC5A2
+conf700,full,CHEMBL2107869,type 2 diabetes mellitus,INSULIN DEGLUDEC,Protein,INSR
+conf700,full,CHEMBL1422,type 2 diabetes mellitus,SITAGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL4594581,type 2 diabetes mellitus,INSULIN ICODEC,Protein,INSR
+conf700,full,CHEMBL2104391,type 2 diabetes mellitus,INSULIN DETEMIR,Protein,INSR
+conf700,full,CHEMBL429910,type 2 diabetes mellitus,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,full,CHEMBL4297658,type 2 diabetes mellitus,IPRAGLIFLOZIN L-PROLINE,Small molecule,SLC5A2
+conf700,full,CHEMBL595,type 2 diabetes mellitus,PIOGLITAZONE,Small molecule,PPARG
+conf700,full,CHEMBL414357,type 2 diabetes mellitus,EXENATIDE,Protein,GLP1R
+conf700,full,CHEMBL142703,type 2 diabetes mellitus,VILDAGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL782,type 2 diabetes mellitus,TOLBUTAMIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL2103825,type 2 diabetes mellitus,CETILISTAT,Small molecule,LIPF;PNLIP
+conf700,full,CHEMBL498,type 2 diabetes mellitus,CHLORPROPAMIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL2108027,type 2 diabetes mellitus,DULAGLUTIDE,Protein,GLP1R
+conf700,full,CHEMBL1650443,type 2 diabetes mellitus,TRELAGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL981,type 2 diabetes mellitus,FENOFIBRIC ACID,Small molecule,PPARA
+conf700,full,CHEMBL783,type 2 diabetes mellitus,NATEGLINIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL2107841,type 2 diabetes mellitus,ALBIGLUTIDE,Protein,GLP1R
+conf700,full,CHEMBL404271,type 2 diabetes mellitus,ACARBOSE,Oligosaccharide,AMY2A;MGAM
+conf700,full,CHEMBL2048484,type 2 diabetes mellitus,CANAGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf700,full,CHEMBL472,type 2 diabetes mellitus,GLYBURIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL4084119,type 2 diabetes mellitus,LIRAGLUTIDE,Protein,GLP1R
+conf700,full,CHEMBL1929396,type 2 diabetes mellitus,ANAGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL1513,type 2 diabetes mellitus,IRBESARTAN,Small molecule,AGTR1
+conf700,full,CHEMBL1201631,type 2 diabetes mellitus,INSULIN HUMAN,Protein,INSR
+conf700,full,CHEMBL476960,type 2 diabetes mellitus,VOGLIBOSE,Small molecule,GAA;MGAM;MGAM2;SI
+conf700,full,CHEMBL1770248,type 2 diabetes mellitus,ERTUGLIFLOZIN,Small molecule,SLC5A2
+conf700,full,CHEMBL376359,type 2 diabetes mellitus,ALOGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL3039507,type 2 diabetes mellitus,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf700,full,CHEMBL1073,type 2 diabetes mellitus,GLIPIZIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL2105762,type 2 diabetes mellitus,OMARIGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL237500,type 2 diabetes mellitus,LINAGLIPTIN,Small molecule,DPP4
+conf700,full,CHEMBL1431,type 2 diabetes mellitus,METFORMIN,Small molecule,MT-ND1;MT-ND2;MT-ND3;MT-ND4;MT-ND4L;MT-ND5;MT-ND6;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA5;NDUFA6;NDUFA7;NDUFA8;NDUFA9;NDUFAB1;NDUFAF1;NDUFAF2;NDUFAF3;NDUFAF4;NDUFB1;NDUFB10;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB6;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS1;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+conf700,full,CHEMBL4298005,type 2 diabetes mellitus,MITIGLINIDE CALCIUM DIHYDRATE,Unknown,ABCC8;KCNJ11
+conf700,full,CHEMBL2110731,type 2 diabetes mellitus,TOFOGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf700,full,CHEMBL1561,type 2 diabetes mellitus,MIGLITOL,Small molecule,GAA;MGAM
+conf700,full,CHEMBL2108724,type 2 diabetes mellitus,SEMAGLUTIDE,Protein,GLP1R
+conf700,full,CHEMBL121,type 2 diabetes mellitus,ROSIGLITAZONE,Small molecule,PPARG
+conf700,full,CHEMBL1201497,type 2 diabetes mellitus,INSULIN GLARGINE,Protein,INSR
+conf700,full,CHEMBL2108336,type 2 diabetes mellitus,LIXISENATIDE,Protein,GLP1R
+conf700,full,CHEMBL2107830,type 2 diabetes mellitus,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,full,CHEMBL1272,type 2 diabetes mellitus,REPAGLINIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL398435,type 2 diabetes mellitus,TICAGRELOR,Small molecule,P2RY12
+conf700,full,CHEMBL817,type 2 diabetes mellitus,TOLAZAMIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL1064,type 2 diabetes mellitus,SIMVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL1481,type 2 diabetes mellitus,GLIMEPIRIDE,Small molecule,ABCC8;KCNJ11
+conf700,full,CHEMBL4297839,type 2 diabetes mellitus,TIRZEPATIDE,Protein,GIPR;GLP1R
+conf700,full,CHEMBL2181927,type 2 diabetes mellitus,FINERENONE,Small molecule,NR3C2
+conf700,full,CHEMBL385517,type 2 diabetes mellitus,SAXAGLIPTIN ANHYDROUS,Small molecule,DPP4
+conf700,full,CHEMBL585,heart failure,TRIAMTERENE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf700,full,CHEMBL1201593,heart failure,ALTEPLASE,Enzyme,PLAT
+conf700,full,CHEMBL1201668,heart failure,NESIRITIDE,Protein,NPR1
+conf700,full,CHEMBL2107885,heart failure,RETEPLASE,Enzyme,PLAT
+conf700,full,CHEMBL1560,heart failure,CAPTOPRIL,Small molecule,ACE
+conf700,full,CHEMBL1393,heart failure,SPIRONOLACTONE,Small molecule,NR3C2
+conf700,full,CHEMBL471737,heart failure,IVABRADINE,Small molecule,HCN4
+conf700,full,CHEMBL429910,heart failure,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,full,CHEMBL53463,heart failure,DOXORUBICIN,Small molecule,TOP2A
+conf700,full,CHEMBL344159,heart failure,TOLVAPTAN,Small molecule,AVPR2
+conf700,full,CHEMBL842,heart failure,CHLOROTHIAZIDE,Small molecule,SLC12A3
+conf700,full,CHEMBL1200692,heart failure,OLMESARTAN MEDOXOMIL,Small molecule,AGTR1
+conf700,full,CHEMBL1014,heart failure,CANDESARTAN CILEXETIL,Small molecule,AGTR1
+conf700,full,CHEMBL254219,heart failure,DIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,full,CHEMBL1614,heart failure,DESLANOSIDE,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,full,CHEMBL189,heart failure,MILRINONE,Small molecule,PDE3A
+conf700,full,CHEMBL1763,heart failure,HYDROFLUMETHIAZIDE,Small molecule,SLC12A3
+conf700,full,CHEMBL1755,heart failure,CONIVAPTAN,Small molecule,AVPR1A;AVPR2
+conf700,full,CHEMBL238804,heart failure,SELEXIPAG,Small molecule,PTGIR
+conf700,full,CHEMBL515606,heart failure,CILAZAPRIL,Small molecule,ACE
+conf700,full,CHEMBL12856,heart failure,INAMRINONE,Small molecule,PDE3A
+conf700,full,CHEMBL1095097,heart failure,EPLERENONE,Small molecule,NR3C2
+conf700,full,CHEMBL1139,heart failure,EPOPROSTENOL,Small molecule,PTGIR
+conf700,full,CHEMBL406,heart failure,INDAPAMIDE,Small molecule,SLC12A3
+conf700,full,CHEMBL1168,heart failure,RAMIPRIL,Small molecule,ACE
+conf700,full,CHEMBL1592,heart failure,QUINAPRIL,Small molecule,ACE
+conf700,full,CHEMBL2,heart failure,PRAZOSIN,Small molecule,ADRA1A;ADRA1B;ADRA1D
+conf700,full,CHEMBL249856,heart failure,ENOXIMONE,Small molecule,PDE3A;PDE3B
+conf700,full,CHEMBL20,heart failure,ACETAZOLAMIDE,Small molecule,CA1;CA12;CA2
+conf700,full,CHEMBL1519,heart failure,TRANDOLAPRIL,Small molecule,ACE
+conf700,full,CHEMBL435,heart failure,HYDROCHLOROTHIAZIDE,Small molecule,SLC12A3
+conf700,full,CHEMBL2104386,heart failure,CARPERITIDE,Protein,NPR1;NPR2;NPR3
+conf700,full,CHEMBL61593,heart failure,CYCLOTHIAZIDE,Small molecule,SLC12A3
+conf700,full,CHEMBL945,heart failure,AMILORIDE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf700,full,CHEMBL13,heart failure,METOPROLOL,Small molecule,ADRB1
+conf700,full,CHEMBL1487,heart failure,ATORVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL1751,heart failure,DIGOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,full,CHEMBL1069,heart failure,VALSARTAN,Small molecule,AGTR1
+conf700,full,CHEMBL3039507,heart failure,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf700,full,CHEMBL723,heart failure,CARVEDILOL,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRB1;ADRB2;ADRB3
+conf700,full,CHEMBL1237,heart failure,LISINOPRIL ANHYDROUS,Small molecule,ACE
+conf700,full,CHEMBL59,heart failure,DOPAMINE,Small molecule,ADRB1
+conf700,full,CHEMBL4066936,heart failure,VERICIGUAT,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf700,full,CHEMBL6622,heart failure,ISOSORBIDE DINITRATE,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf700,full,CHEMBL434,heart failure,ISOPROTERENOL,Small molecule,ADRB1;ADRB2;ADRB3
+conf700,full,CHEMBL1491,heart failure,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf700,full,CHEMBL1055,heart failure,CHLORTHALIDONE,Small molecule,SLC12A3
+conf700,full,CHEMBL578,heart failure,ENALAPRIL,Small molecule,ACE
+conf700,full,CHEMBL2051955,heart failure,LEVOSIMENDAN,Small molecule,PDE3A;PDE3B;TNNC1;TNNI3;TNNT2
+conf700,full,CHEMBL2107830,heart failure,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,full,CHEMBL878,heart failure,METOLAZONE,Small molecule,SLC12A3
+conf700,full,CHEMBL926,heart failure,DOBUTAMINE,Small molecule,ADRB1;ADRB2
+conf700,full,CHEMBL3137301,heart failure,SACUBITRIL,Small molecule,MME
+conf700,full,CHEMBL2097081,heart failure,NITROPRUSSIDE,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf700,full,CHEMBL3545057,heart failure,ACETYLDIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,full,CHEMBL2181927,heart failure,FINERENONE,Small molecule,NR3C2
+conf700,full,CHEMBL730,heart failure,NITROGLYCERIN,Small molecule,GUCY1A1;GUCY1A2;GUCY1B1
+conf700,full,CHEMBL3039598,heart failure,FOSINOPRIL,Small molecule,ACE
+conf700,full,CHEMBL3990033,hypercholesterolemia,INCLISIRAN,Oligonucleotide,PCSK9
+conf700,full,CHEMBL672,hypercholesterolemia,FENOFIBRATE,Small molecule,PPARA
+conf700,full,CHEMBL2220442,hypercholesterolemia,FLUVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL1201753,hypercholesterolemia,PITAVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL981,hypercholesterolemia,FENOFIBRIC ACID,Small molecule,PPARA
+conf700,full,CHEMBL1496,hypercholesterolemia,ROSUVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL2109540,hypercholesterolemia,ALIROCUMAB,Antibody,PCSK9
+conf700,full,CHEMBL1487,hypercholesterolemia,ATORVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL1144,hypercholesterolemia,PRAVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL3545191,hypercholesterolemia,EVINACUMAB,Antibody,ANGPTL3
+conf700,full,CHEMBL3545313,hypercholesterolemia,BEMPEDOIC ACID,Small molecule,ACLY
+conf700,full,CHEMBL503,hypercholesterolemia,LOVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL354541,hypercholesterolemia,LOMITAPIDE,Small molecule,MTTP;P4HB
+conf700,full,CHEMBL1491,hypercholesterolemia,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf700,full,CHEMBL5095052,hypercholesterolemia,INCLISIRAN SODIUM,Oligonucleotide,PCSK9
+conf700,full,CHEMBL2364655,hypercholesterolemia,EVOLOCUMAB,Antibody,PCSK9
+conf700,full,CHEMBL1064,hypercholesterolemia,SIMVASTATIN,Small molecule,HMGCR
+conf700,full,CHEMBL514800,rheumatoid arthritis,APREMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf700,full,CHEMBL571,rheumatoid arthritis,KETOPROFEN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL2105759,rheumatoid arthritis,BARICITINIB,Small molecule,JAK1;JAK2
+conf700,full,CHEMBL960,rheumatoid arthritis,LEFLUNOMIDE,Small molecule,DHODH
+conf700,full,CHEMBL384467,rheumatoid arthritis,DEXAMETHASONE,Small molecule,NR3C1
+conf700,full,CHEMBL1650,rheumatoid arthritis,CORTISONE ACETATE,Small molecule,NR3C1
+conf700,full,CHEMBL1535,rheumatoid arthritis,HYDROXYCHLOROQUINE,Small molecule,TLR7;TLR9
+conf700,full,CHEMBL599,rheumatoid arthritis,MELOXICAM,Small molecule,PTGS2
+conf700,full,CHEMBL1743034,rheumatoid arthritis,IXEKIZUMAB,Antibody,IL17A
+conf700,full,CHEMBL1503,rheumatoid arthritis,OMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf700,full,CHEMBL521,rheumatoid arthritis,IBUPROFEN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL3301607,rheumatoid arthritis,FILGOTINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,full,CHEMBL2364648,rheumatoid arthritis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf700,full,CHEMBL902,rheumatoid arthritis,FAMOTIDINE,Small molecule,HRH2
+conf700,full,CHEMBL221959,rheumatoid arthritis,TOFACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,full,CHEMBL93645,rheumatoid arthritis,ACECLOFENAC,Small molecule,PTGS2
+conf700,full,CHEMBL94081,rheumatoid arthritis,ALCLOFENAC,Small molecule,PTGS1
+conf700,full,CHEMBL389621,rheumatoid arthritis,HYDROCORTISONE,Small molecule,NR3C1
+conf700,full,CHEMBL1071,rheumatoid arthritis,OXAPROZIN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL865,rheumatoid arthritis,VALDECOXIB,Small molecule,PTGS2
+conf700,full,CHEMBL1201265,rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf700,full,CHEMBL1020,rheumatoid arthritis,TOLMETIN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL3622821,rheumatoid arthritis,UPADACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,full,CHEMBL622,rheumatoid arthritis,ETODOLAC,Small molecule,PTGS2
+conf700,full,CHEMBL2108730,rheumatoid arthritis,SARILUMAB,Antibody,IL6R
+conf700,full,CHEMBL1201833,rheumatoid arthritis,GOLIMUMAB,Antibody,TNF
+conf700,full,CHEMBL606,rheumatoid arthritis,MISOPROSTOL,Small molecule,PTGER3
+conf700,full,CHEMBL34259,rheumatoid arthritis,METHOTREXATE,Small molecule,DHFR
+conf700,full,CHEMBL1742996,rheumatoid arthritis,BRODALUMAB,Antibody,IL17RA
+conf700,full,CHEMBL3990029,rheumatoid arthritis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf700,full,CHEMBL1743068,rheumatoid arthritis,SECUKINUMAB,Antibody,IL17A
+conf700,full,CHEMBL1201581,rheumatoid arthritis,INFLIXIMAB,Antibody,TNF
+conf700,full,CHEMBL1201320,rheumatoid arthritis,ESOMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf700,full,CHEMBL527,rheumatoid arthritis,PIROXICAM,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL1364144,rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf700,full,CHEMBL118,rheumatoid arthritis,CELECOXIB,Small molecule,PTGS2
+conf700,full,CHEMBL131,rheumatoid arthritis,PREDNISOLONE,Small molecule,NR3C1
+conf700,full,CHEMBL898,rheumatoid arthritis,DIFLUNISAL,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL1070,rheumatoid arthritis,NABUMETONE,Small molecule,PTGS2
+conf700,full,CHEMBL6,rheumatoid arthritis,INDOMETHACIN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL139,rheumatoid arthritis,DICLOFENAC,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL1201572,rheumatoid arthritis,ETANERCEPT,Protein,TNF
+conf700,full,CHEMBL2107455,rheumatoid arthritis,IGURATIMOD,Small molecule,MIF;PTGS2;TRAF3IP2
+conf700,full,CHEMBL563,rheumatoid arthritis,FLURBIPROFEN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL421,rheumatoid arthritis,SULFASALAZINE,Small molecule,ALOX5;PTGS1;PTGS2
+conf700,full,CHEMBL1201835,rheumatoid arthritis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf700,full,CHEMBL509,rheumatoid arthritis,MECLOFENAMIC ACID,Small molecule,ALOX5;PTGS1;PTGS2
+conf700,full,CHEMBL1743054,rheumatoid arthritis,OZORALIZUMAB,Antibody,TNF
+conf700,full,CHEMBL1201570,rheumatoid arthritis,ANAKINRA,Protein,IL1R1
+conf700,full,CHEMBL416146,rheumatoid arthritis,ETORICOXIB,Small molecule,PTGS2
+conf700,full,CHEMBL15770,rheumatoid arthritis,SULINDAC,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL1504,rheumatoid arthritis,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf700,full,CHEMBL175,rheumatoid arthritis,DEXIBUPROFEN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL1237022,rheumatoid arthritis,TOCILIZUMAB,Antibody,IL6R
+conf700,full,CHEMBL650,rheumatoid arthritis,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf700,full,CHEMBL154,rheumatoid arthritis,NAPROXEN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL3137308,rheumatoid arthritis,PEFICITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,full,CHEMBL1542,rheumatoid arthritis,AZATHIOPRINE,Small molecule,PPAT
+conf700,full,CHEMBL1201831,rheumatoid arthritis,CERTOLIZUMAB PEGOL,Antibody,TNF
+conf700,full,CHEMBL1297,rheumatoid arthritis,FENOPROFEN,Small molecule,PTGS1;PTGS2
+conf700,full,CHEMBL160,rheumatoid arthritis,CYCLOSPORINE,Protein,PPIA
+conf700,full,CHEMBL635,rheumatoid arthritis,PREDNISONE,Small molecule,NR3C1
+conf700,full,CHEMBL1201834,rheumatoid arthritis,CANAKINUMAB,Antibody,IL1B
+conf700,full,CHEMBL1201302,rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,full,CHEMBL1201823,rheumatoid arthritis,ABATACEPT,Protein,CD80;CD86
+conf700,full,CHEMBL1201580,rheumatoid arthritis,ADALIMUMAB,Antibody,TNF
+conf700,full,CHEMBL1161,asthma,MOMETASONE FUROATE,Small molecule,NR3C1
+conf700,full,CHEMBL1504,asthma,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf700,full,CHEMBL2107884,asthma,RESLIZUMAB,Antibody,IL5
+conf700,full,CHEMBL1760,asthma,TERBUTALINE,Small molecule,ADRB2
+conf700,full,CHEMBL1194325,asthma,ACLIDINIUM,Small molecule,CHRM3
+conf700,full,CHEMBL1473,asthma,FLUTICASONE PROPIONATE,Small molecule,NR3C1
+conf700,full,CHEMBL521589,asthma,BAMBUTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL603,asthma,ZAFIRLUKAST,Small molecule,CYSLTR1
+conf700,full,CHEMBL978,asthma,METHACHOLINE,Small molecule,CHRM3
+conf700,full,CHEMBL21333,asthma,PRANLUKAST,Small molecule,CYSLTR1
+conf700,full,CHEMBL1370,asthma,BUDESONIDE,Small molecule,NR3C1
+conf700,full,CHEMBL193240,asthma,ROFLUMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf700,full,CHEMBL2040682,asthma,CICLESONIDE,Small molecule,NR3C1
+conf700,full,CHEMBL4650469,asthma,DEPEMOKIMAB,Antibody,IL5
+conf700,full,CHEMBL650,asthma,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf700,full,CHEMBL1095777,asthma,INDACATEROL,Small molecule,ADRB2
+conf700,full,CHEMBL256087,asthma,MENTHOL,Small molecule,TRPA1;TRPM8
+conf700,full,CHEMBL1201265,asthma,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf700,full,CHEMBL1201295,asthma,BITOLTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL1742991,asthma,BENRALIZUMAB,Antibody,IL5RA
+conf700,full,CHEMBL1200774,asthma,FLUPREDNISOLONE,Small molecule,NR3C1
+conf700,full,CHEMBL787,asthma,MONTELUKAST,Small molecule,CYSLTR1
+conf700,full,CHEMBL1364144,asthma,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf700,full,CHEMBL1201273,asthma,PROTOKYLOL,Small molecule,ADRB2
+conf700,full,CHEMBL384467,asthma,DEXAMETHASONE,Small molecule,NR3C1
+conf700,full,CHEMBL2108429,asthma,MEPOLIZUMAB,Antibody,IL5
+conf700,full,CHEMBL1650,asthma,CORTISONE ACETATE,Small molecule,NR3C1
+conf700,full,CHEMBL1094966,asthma,PIRBUTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL131,asthma,PREDNISOLONE,Small molecule,NR3C1
+conf700,full,CHEMBL1201213,asthma,ISOETHARINE,Small molecule,ADRB2
+conf700,full,CHEMBL714,asthma,ALBUTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL1621597,asthma,IPRATROPIUM,Small molecule,CHRM3
+conf700,full,CHEMBL190,asthma,THEOPHYLLINE ANHYDROUS,Protein,ADORA1;ADORA2A;ADORA2B;ADORA3;PDE3A;PDE3B;PDE4A;PDE4B;PDE4C;PDE4D
+conf700,full,CHEMBL1256786,asthma,FORMOTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL1676,asthma,FLUTICASONE FUROATE,Small molecule,NR3C1
+conf700,full,CHEMBL1200538,asthma,BETAMETHASONE ACETATE,Small molecule,NR3C1
+conf700,full,CHEMBL88055,asthma,RIMITEROL,Small molecule,ADRB2
+conf700,full,CHEMBL679,asthma,EPINEPHRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf700,full,CHEMBL776,asthma,METAPROTERENOL,Small molecule,ADRB2
+conf700,full,CHEMBL1198857,asthma,VILANTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL1201231,asthma,PREDNISOLONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,full,CHEMBL1002,asthma,LEVOSALBUTAMOL,Small molecule,ADRB2
+conf700,full,CHEMBL635,asthma,PREDNISONE,Small molecule,NR3C1
+conf700,full,CHEMBL1263,asthma,SALMETEROL,Small molecule,ADRB2
+conf700,full,CHEMBL1187833,asthma,UMECLIDINIUM,Small molecule,CHRM3
+conf700,full,CHEMBL1200500,asthma,BECLOMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf700,full,CHEMBL211456,asthma,EPHEDRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf700,full,CHEMBL1201335,asthma,GLYCOPYRRONIUM,Small molecule,CHRM1;CHRM2;CHRM3;CHRM4;CHRM5
+conf700,full,CHEMBL160519,asthma,PROCATEROL,Small molecule,ADRB2
+conf700,full,CHEMBL977,asthma,HYDROCORTISONE HEMISUCCINATE ANHYDROUS,Small molecule,NR3C1
+conf700,full,CHEMBL389621,asthma,HYDROCORTISONE,Small molecule,NR3C1
+conf700,full,CHEMBL1201302,asthma,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,full,CHEMBL32800,asthma,FENOTEROL,Small molecule,ADRB2
+conf700,full,CHEMBL93,asthma,ZILEUTON,Small molecule,ALOX5
+conf700,full,CHEMBL1512,asthma,FLUNISOLIDE,Small molecule,NR3C1
+conf700,full,CHEMBL1900528,asthma,TIOTROPIUM,Small molecule,CHRM3
+conf700,full,CHEMBL3707229,asthma,TEZEPELUMAB,Antibody,TSLP
+conf700,full,CHEMBL2108675,asthma,DUPILUMAB,Antibody,IL4R
+conf700,full,CHEMBL514800,psoriasis,APREMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf700,full,CHEMBL989,psoriasis,FLUOCINOLONE ACETONIDE,Small molecule,NR3C1
+conf700,full,CHEMBL4297911,psoriasis,SPESOLIMAB,Antibody,IL1RAP
+conf700,full,CHEMBL1743068,psoriasis,SECUKINUMAB,Antibody,IL17A
+conf700,full,CHEMBL1201581,psoriasis,INFLIXIMAB,Antibody,TNF
+conf700,full,CHEMBL193240,psoriasis,ROFLUMILAST,Small molecule,PDE4A;PDE4B;PDE4C;PDE4D
+conf700,full,CHEMBL1200384,psoriasis,BETAMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf700,full,CHEMBL1657,psoriasis,TAZAROTENE,Small molecule,RARA;RARB;RARG
+conf700,full,CHEMBL1131,psoriasis,ACITRETIN,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf700,full,CHEMBL256087,psoriasis,MENTHOL,Small molecule,TRPA1;TRPM8
+conf700,full,CHEMBL2107333,psoriasis,DIMETHYL FUMARATE,Small molecule,KEAP1
+conf700,full,CHEMBL464,psoriasis,ETRETINATE,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf700,full,CHEMBL384467,psoriasis,DEXAMETHASONE,Small molecule,NR3C1
+conf700,full,CHEMBL1201575,psoriasis,EFALIZUMAB,Antibody,ITGAL;ITGB2
+conf700,full,CHEMBL4297700,psoriasis,BIMEKIZUMAB,Antibody,IL17A;IL17F
+conf700,full,CHEMBL1766,psoriasis,DESOXIMETASONE,Small molecule,NR3C1
+conf700,full,CHEMBL1200908,psoriasis,HALOBETASOL PROPIONATE,Small molecule,NR3C1
+conf700,full,CHEMBL4596392,psoriasis,CRAVACITINIB,Small molecule,TYK2
+conf700,full,CHEMBL1743034,psoriasis,IXEKIZUMAB,Antibody,IL17A
+conf700,full,CHEMBL1159650,psoriasis,CLOBETASOL PROPIONATE,Small molecule,NR3C1
+conf700,full,CHEMBL131,psoriasis,PREDNISOLONE,Small molecule,NR3C1
+conf700,full,CHEMBL259571,psoriasis,TAPINAROF,Small molecule,AHR
+conf700,full,CHEMBL160,psoriasis,CYCLOSPORINE,Protein,PPIA
+conf700,full,CHEMBL34259,psoriasis,METHOTREXATE,Small molecule,DHFR
+conf700,full,CHEMBL1201572,psoriasis,ETANERCEPT,Protein,TNF
+conf700,full,CHEMBL635,psoriasis,PREDNISONE,Small molecule,NR3C1
+conf700,full,CHEMBL2108681,psoriasis,TILDRAKIZUMAB,Antibody,IL12B;IL23A
+conf700,full,CHEMBL2364648,psoriasis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf700,full,CHEMBL389621,psoriasis,HYDROCORTISONE,Small molecule,NR3C1
+conf700,full,CHEMBL1201302,psoriasis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,full,CHEMBL1742996,psoriasis,BRODALUMAB,Antibody,IL17RA
+conf700,full,CHEMBL1201835,psoriasis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf700,full,CHEMBL1201580,psoriasis,ADALIMUMAB,Antibody,TNF
+conf700,full,CHEMBL3990029,psoriasis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf700,shared,CHEMBL493,type 2 diabetes mellitus,BROMOCRIPTINE,Small molecule,DRD2;DRD3;DRD4
+conf700,shared,CHEMBL672,type 2 diabetes mellitus,FENOFIBRATE,Small molecule,PPARA
+conf700,shared,CHEMBL1808388,type 2 diabetes mellitus,BEXAGLIFLOZIN,Small molecule,SLC5A2
+conf700,shared,CHEMBL2107869,type 2 diabetes mellitus,INSULIN DEGLUDEC,Protein,INSR
+conf700,shared,CHEMBL1422,type 2 diabetes mellitus,SITAGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL4594581,type 2 diabetes mellitus,INSULIN ICODEC,Protein,INSR
+conf700,shared,CHEMBL2104391,type 2 diabetes mellitus,INSULIN DETEMIR,Protein,INSR
+conf700,shared,CHEMBL429910,type 2 diabetes mellitus,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,shared,CHEMBL4297658,type 2 diabetes mellitus,IPRAGLIFLOZIN L-PROLINE,Small molecule,SLC5A2
+conf700,shared,CHEMBL595,type 2 diabetes mellitus,PIOGLITAZONE,Small molecule,PPARG
+conf700,shared,CHEMBL414357,type 2 diabetes mellitus,EXENATIDE,Protein,GLP1R
+conf700,shared,CHEMBL142703,type 2 diabetes mellitus,VILDAGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL782,type 2 diabetes mellitus,TOLBUTAMIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL2103825,type 2 diabetes mellitus,CETILISTAT,Small molecule,LIPF;PNLIP
+conf700,shared,CHEMBL498,type 2 diabetes mellitus,CHLORPROPAMIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL2108027,type 2 diabetes mellitus,DULAGLUTIDE,Protein,GLP1R
+conf700,shared,CHEMBL1650443,type 2 diabetes mellitus,TRELAGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL981,type 2 diabetes mellitus,FENOFIBRIC ACID,Small molecule,PPARA
+conf700,shared,CHEMBL783,type 2 diabetes mellitus,NATEGLINIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL2107841,type 2 diabetes mellitus,ALBIGLUTIDE,Protein,GLP1R
+conf700,shared,CHEMBL2048484,type 2 diabetes mellitus,CANAGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf700,shared,CHEMBL472,type 2 diabetes mellitus,GLYBURIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL4084119,type 2 diabetes mellitus,LIRAGLUTIDE,Protein,GLP1R
+conf700,shared,CHEMBL1929396,type 2 diabetes mellitus,ANAGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL1513,type 2 diabetes mellitus,IRBESARTAN,Small molecule,AGTR1
+conf700,shared,CHEMBL1201631,type 2 diabetes mellitus,INSULIN HUMAN,Protein,INSR
+conf700,shared,CHEMBL1770248,type 2 diabetes mellitus,ERTUGLIFLOZIN,Small molecule,SLC5A2
+conf700,shared,CHEMBL376359,type 2 diabetes mellitus,ALOGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL3039507,type 2 diabetes mellitus,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf700,shared,CHEMBL1073,type 2 diabetes mellitus,GLIPIZIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL2105762,type 2 diabetes mellitus,OMARIGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL237500,type 2 diabetes mellitus,LINAGLIPTIN,Small molecule,DPP4
+conf700,shared,CHEMBL1431,type 2 diabetes mellitus,METFORMIN,Small molecule,MT-ND1;MT-ND2;MT-ND3;MT-ND4;MT-ND4L;MT-ND5;MT-ND6;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA5;NDUFA6;NDUFA7;NDUFA8;NDUFA9;NDUFAB1;NDUFAF1;NDUFAF2;NDUFAF3;NDUFAF4;NDUFB1;NDUFB10;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB6;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS1;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+conf700,shared,CHEMBL4298005,type 2 diabetes mellitus,MITIGLINIDE CALCIUM DIHYDRATE,Unknown,ABCC8;KCNJ11
+conf700,shared,CHEMBL2110731,type 2 diabetes mellitus,TOFOGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf700,shared,CHEMBL2108724,type 2 diabetes mellitus,SEMAGLUTIDE,Protein,GLP1R
+conf700,shared,CHEMBL121,type 2 diabetes mellitus,ROSIGLITAZONE,Small molecule,PPARG
+conf700,shared,CHEMBL1201497,type 2 diabetes mellitus,INSULIN GLARGINE,Protein,INSR
+conf700,shared,CHEMBL2108336,type 2 diabetes mellitus,LIXISENATIDE,Protein,GLP1R
+conf700,shared,CHEMBL2107830,type 2 diabetes mellitus,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,shared,CHEMBL1272,type 2 diabetes mellitus,REPAGLINIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL398435,type 2 diabetes mellitus,TICAGRELOR,Small molecule,P2RY12
+conf700,shared,CHEMBL817,type 2 diabetes mellitus,TOLAZAMIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL1064,type 2 diabetes mellitus,SIMVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL1481,type 2 diabetes mellitus,GLIMEPIRIDE,Small molecule,ABCC8;KCNJ11
+conf700,shared,CHEMBL4297839,type 2 diabetes mellitus,TIRZEPATIDE,Protein,GIPR;GLP1R
+conf700,shared,CHEMBL2181927,type 2 diabetes mellitus,FINERENONE,Small molecule,NR3C2
+conf700,shared,CHEMBL385517,type 2 diabetes mellitus,SAXAGLIPTIN ANHYDROUS,Small molecule,DPP4
+conf700,shared,CHEMBL585,heart failure,TRIAMTERENE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf700,shared,CHEMBL1201593,heart failure,ALTEPLASE,Enzyme,PLAT
+conf700,shared,CHEMBL1201668,heart failure,NESIRITIDE,Protein,NPR1
+conf700,shared,CHEMBL2107885,heart failure,RETEPLASE,Enzyme,PLAT
+conf700,shared,CHEMBL1560,heart failure,CAPTOPRIL,Small molecule,ACE
+conf700,shared,CHEMBL1393,heart failure,SPIRONOLACTONE,Small molecule,NR3C2
+conf700,shared,CHEMBL471737,heart failure,IVABRADINE,Small molecule,HCN4
+conf700,shared,CHEMBL429910,heart failure,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,shared,CHEMBL53463,heart failure,DOXORUBICIN,Small molecule,TOP2A
+conf700,shared,CHEMBL344159,heart failure,TOLVAPTAN,Small molecule,AVPR2
+conf700,shared,CHEMBL1200692,heart failure,OLMESARTAN MEDOXOMIL,Small molecule,AGTR1
+conf700,shared,CHEMBL1014,heart failure,CANDESARTAN CILEXETIL,Small molecule,AGTR1
+conf700,shared,CHEMBL254219,heart failure,DIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,shared,CHEMBL1614,heart failure,DESLANOSIDE,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,shared,CHEMBL189,heart failure,MILRINONE,Small molecule,PDE3A
+conf700,shared,CHEMBL1755,heart failure,CONIVAPTAN,Small molecule,AVPR1A;AVPR2
+conf700,shared,CHEMBL238804,heart failure,SELEXIPAG,Small molecule,PTGIR
+conf700,shared,CHEMBL515606,heart failure,CILAZAPRIL,Small molecule,ACE
+conf700,shared,CHEMBL12856,heart failure,INAMRINONE,Small molecule,PDE3A
+conf700,shared,CHEMBL1095097,heart failure,EPLERENONE,Small molecule,NR3C2
+conf700,shared,CHEMBL1139,heart failure,EPOPROSTENOL,Small molecule,PTGIR
+conf700,shared,CHEMBL1168,heart failure,RAMIPRIL,Small molecule,ACE
+conf700,shared,CHEMBL1592,heart failure,QUINAPRIL,Small molecule,ACE
+conf700,shared,CHEMBL2,heart failure,PRAZOSIN,Small molecule,ADRA1A;ADRA1B;ADRA1D
+conf700,shared,CHEMBL249856,heart failure,ENOXIMONE,Small molecule,PDE3A;PDE3B
+conf700,shared,CHEMBL20,heart failure,ACETAZOLAMIDE,Small molecule,CA2
+conf700,shared,CHEMBL1519,heart failure,TRANDOLAPRIL,Small molecule,ACE
+conf700,shared,CHEMBL2104386,heart failure,CARPERITIDE,Protein,NPR1;NPR2;NPR3
+conf700,shared,CHEMBL945,heart failure,AMILORIDE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf700,shared,CHEMBL13,heart failure,METOPROLOL,Small molecule,ADRB1
+conf700,shared,CHEMBL1487,heart failure,ATORVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL1751,heart failure,DIGOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,shared,CHEMBL1069,heart failure,VALSARTAN,Small molecule,AGTR1
+conf700,shared,CHEMBL3039507,heart failure,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf700,shared,CHEMBL723,heart failure,CARVEDILOL,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRB1;ADRB2;ADRB3
+conf700,shared,CHEMBL1237,heart failure,LISINOPRIL ANHYDROUS,Small molecule,ACE
+conf700,shared,CHEMBL59,heart failure,DOPAMINE,Small molecule,ADRB1
+conf700,shared,CHEMBL434,heart failure,ISOPROTERENOL,Small molecule,ADRB1;ADRB2;ADRB3
+conf700,shared,CHEMBL1491,heart failure,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf700,shared,CHEMBL578,heart failure,ENALAPRIL,Small molecule,ACE
+conf700,shared,CHEMBL2051955,heart failure,LEVOSIMENDAN,Small molecule,PDE3A;PDE3B;TNNC1;TNNI3;TNNT2
+conf700,shared,CHEMBL2107830,heart failure,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf700,shared,CHEMBL926,heart failure,DOBUTAMINE,Small molecule,ADRB1;ADRB2
+conf700,shared,CHEMBL3137301,heart failure,SACUBITRIL,Small molecule,MME
+conf700,shared,CHEMBL3545057,heart failure,ACETYLDIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf700,shared,CHEMBL2181927,heart failure,FINERENONE,Small molecule,NR3C2
+conf700,shared,CHEMBL3039598,heart failure,FOSINOPRIL,Small molecule,ACE
+conf700,shared,CHEMBL3990033,hypercholesterolemia,INCLISIRAN,Oligonucleotide,PCSK9
+conf700,shared,CHEMBL672,hypercholesterolemia,FENOFIBRATE,Small molecule,PPARA
+conf700,shared,CHEMBL2220442,hypercholesterolemia,FLUVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL1201753,hypercholesterolemia,PITAVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL981,hypercholesterolemia,FENOFIBRIC ACID,Small molecule,PPARA
+conf700,shared,CHEMBL1496,hypercholesterolemia,ROSUVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL2109540,hypercholesterolemia,ALIROCUMAB,Antibody,PCSK9
+conf700,shared,CHEMBL1487,hypercholesterolemia,ATORVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL1144,hypercholesterolemia,PRAVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL3545191,hypercholesterolemia,EVINACUMAB,Antibody,ANGPTL3
+conf700,shared,CHEMBL3545313,hypercholesterolemia,BEMPEDOIC ACID,Small molecule,ACLY
+conf700,shared,CHEMBL503,hypercholesterolemia,LOVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL354541,hypercholesterolemia,LOMITAPIDE,Small molecule,MTTP;P4HB
+conf700,shared,CHEMBL1491,hypercholesterolemia,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf700,shared,CHEMBL5095052,hypercholesterolemia,INCLISIRAN SODIUM,Oligonucleotide,PCSK9
+conf700,shared,CHEMBL2364655,hypercholesterolemia,EVOLOCUMAB,Antibody,PCSK9
+conf700,shared,CHEMBL1064,hypercholesterolemia,SIMVASTATIN,Small molecule,HMGCR
+conf700,shared,CHEMBL514800,rheumatoid arthritis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf700,shared,CHEMBL571,rheumatoid arthritis,KETOPROFEN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL2105759,rheumatoid arthritis,BARICITINIB,Small molecule,JAK1;JAK2
+conf700,shared,CHEMBL384467,rheumatoid arthritis,DEXAMETHASONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1650,rheumatoid arthritis,CORTISONE ACETATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1535,rheumatoid arthritis,HYDROXYCHLOROQUINE,Small molecule,TLR7;TLR9
+conf700,shared,CHEMBL599,rheumatoid arthritis,MELOXICAM,Small molecule,PTGS2
+conf700,shared,CHEMBL1743034,rheumatoid arthritis,IXEKIZUMAB,Antibody,IL17A
+conf700,shared,CHEMBL1503,rheumatoid arthritis,OMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf700,shared,CHEMBL521,rheumatoid arthritis,IBUPROFEN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL3301607,rheumatoid arthritis,FILGOTINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,shared,CHEMBL2364648,rheumatoid arthritis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf700,shared,CHEMBL221959,rheumatoid arthritis,TOFACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,shared,CHEMBL93645,rheumatoid arthritis,ACECLOFENAC,Small molecule,PTGS2
+conf700,shared,CHEMBL94081,rheumatoid arthritis,ALCLOFENAC,Small molecule,PTGS1
+conf700,shared,CHEMBL389621,rheumatoid arthritis,HYDROCORTISONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1071,rheumatoid arthritis,OXAPROZIN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL865,rheumatoid arthritis,VALDECOXIB,Small molecule,PTGS2
+conf700,shared,CHEMBL1201265,rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1020,rheumatoid arthritis,TOLMETIN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL3622821,rheumatoid arthritis,UPADACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,shared,CHEMBL622,rheumatoid arthritis,ETODOLAC,Small molecule,PTGS2
+conf700,shared,CHEMBL2108730,rheumatoid arthritis,SARILUMAB,Antibody,IL6R
+conf700,shared,CHEMBL1201833,rheumatoid arthritis,GOLIMUMAB,Antibody,TNF
+conf700,shared,CHEMBL606,rheumatoid arthritis,MISOPROSTOL,Small molecule,PTGER3
+conf700,shared,CHEMBL1742996,rheumatoid arthritis,BRODALUMAB,Antibody,IL17RA
+conf700,shared,CHEMBL3990029,rheumatoid arthritis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf700,shared,CHEMBL1743068,rheumatoid arthritis,SECUKINUMAB,Antibody,IL17A
+conf700,shared,CHEMBL1201581,rheumatoid arthritis,INFLIXIMAB,Antibody,TNF
+conf700,shared,CHEMBL1201320,rheumatoid arthritis,ESOMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf700,shared,CHEMBL527,rheumatoid arthritis,PIROXICAM,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1364144,rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf700,shared,CHEMBL118,rheumatoid arthritis,CELECOXIB,Small molecule,PTGS2
+conf700,shared,CHEMBL131,rheumatoid arthritis,PREDNISOLONE,Small molecule,NR3C1
+conf700,shared,CHEMBL898,rheumatoid arthritis,DIFLUNISAL,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1070,rheumatoid arthritis,NABUMETONE,Small molecule,PTGS2
+conf700,shared,CHEMBL6,rheumatoid arthritis,INDOMETHACIN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL139,rheumatoid arthritis,DICLOFENAC,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1201572,rheumatoid arthritis,ETANERCEPT,Protein,TNF
+conf700,shared,CHEMBL2107455,rheumatoid arthritis,IGURATIMOD,Small molecule,MIF;PTGS2;TRAF3IP2
+conf700,shared,CHEMBL563,rheumatoid arthritis,FLURBIPROFEN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL421,rheumatoid arthritis,SULFASALAZINE,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1201835,rheumatoid arthritis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf700,shared,CHEMBL509,rheumatoid arthritis,MECLOFENAMIC ACID,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1743054,rheumatoid arthritis,OZORALIZUMAB,Antibody,TNF
+conf700,shared,CHEMBL1201570,rheumatoid arthritis,ANAKINRA,Protein,IL1R1
+conf700,shared,CHEMBL416146,rheumatoid arthritis,ETORICOXIB,Small molecule,PTGS2
+conf700,shared,CHEMBL15770,rheumatoid arthritis,SULINDAC,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1504,rheumatoid arthritis,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf700,shared,CHEMBL175,rheumatoid arthritis,DEXIBUPROFEN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL1237022,rheumatoid arthritis,TOCILIZUMAB,Antibody,IL6R
+conf700,shared,CHEMBL650,rheumatoid arthritis,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf700,shared,CHEMBL154,rheumatoid arthritis,NAPROXEN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL3137308,rheumatoid arthritis,PEFICITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf700,shared,CHEMBL1542,rheumatoid arthritis,AZATHIOPRINE,Small molecule,PPAT
+conf700,shared,CHEMBL1201831,rheumatoid arthritis,CERTOLIZUMAB PEGOL,Antibody,TNF
+conf700,shared,CHEMBL1297,rheumatoid arthritis,FENOPROFEN,Small molecule,PTGS1;PTGS2
+conf700,shared,CHEMBL160,rheumatoid arthritis,CYCLOSPORINE,Protein,PPIA
+conf700,shared,CHEMBL635,rheumatoid arthritis,PREDNISONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201834,rheumatoid arthritis,CANAKINUMAB,Antibody,IL1B
+conf700,shared,CHEMBL1201302,rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,shared,CHEMBL1201823,rheumatoid arthritis,ABATACEPT,Protein,CD80;CD86
+conf700,shared,CHEMBL1201580,rheumatoid arthritis,ADALIMUMAB,Antibody,TNF
+conf700,shared,CHEMBL1161,asthma,MOMETASONE FUROATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1504,asthma,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf700,shared,CHEMBL2107884,asthma,RESLIZUMAB,Antibody,IL5
+conf700,shared,CHEMBL1760,asthma,TERBUTALINE,Small molecule,ADRB2
+conf700,shared,CHEMBL1194325,asthma,ACLIDINIUM,Small molecule,CHRM3
+conf700,shared,CHEMBL1473,asthma,FLUTICASONE PROPIONATE,Small molecule,NR3C1
+conf700,shared,CHEMBL521589,asthma,BAMBUTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL603,asthma,ZAFIRLUKAST,Small molecule,CYSLTR1
+conf700,shared,CHEMBL978,asthma,METHACHOLINE,Small molecule,CHRM3
+conf700,shared,CHEMBL21333,asthma,PRANLUKAST,Small molecule,CYSLTR1
+conf700,shared,CHEMBL1370,asthma,BUDESONIDE,Small molecule,NR3C1
+conf700,shared,CHEMBL193240,asthma,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf700,shared,CHEMBL2040682,asthma,CICLESONIDE,Small molecule,NR3C1
+conf700,shared,CHEMBL4650469,asthma,DEPEMOKIMAB,Antibody,IL5
+conf700,shared,CHEMBL650,asthma,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1095777,asthma,INDACATEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL256087,asthma,MENTHOL,Small molecule,TRPA1
+conf700,shared,CHEMBL1201265,asthma,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201295,asthma,BITOLTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL1742991,asthma,BENRALIZUMAB,Antibody,IL5RA
+conf700,shared,CHEMBL1200774,asthma,FLUPREDNISOLONE,Small molecule,NR3C1
+conf700,shared,CHEMBL787,asthma,MONTELUKAST,Small molecule,CYSLTR1
+conf700,shared,CHEMBL1364144,asthma,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201273,asthma,PROTOKYLOL,Small molecule,ADRB2
+conf700,shared,CHEMBL384467,asthma,DEXAMETHASONE,Small molecule,NR3C1
+conf700,shared,CHEMBL2108429,asthma,MEPOLIZUMAB,Antibody,IL5
+conf700,shared,CHEMBL1650,asthma,CORTISONE ACETATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1094966,asthma,PIRBUTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL131,asthma,PREDNISOLONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201213,asthma,ISOETHARINE,Small molecule,ADRB2
+conf700,shared,CHEMBL714,asthma,ALBUTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL1621597,asthma,IPRATROPIUM,Small molecule,CHRM3
+conf700,shared,CHEMBL190,asthma,THEOPHYLLINE ANHYDROUS,Protein,ADORA1;ADORA2A;ADORA2B;ADORA3;PDE3A;PDE3B;PDE4B;PDE4D
+conf700,shared,CHEMBL1256786,asthma,FORMOTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL1676,asthma,FLUTICASONE FUROATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1200538,asthma,BETAMETHASONE ACETATE,Small molecule,NR3C1
+conf700,shared,CHEMBL88055,asthma,RIMITEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL679,asthma,EPINEPHRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf700,shared,CHEMBL776,asthma,METAPROTERENOL,Small molecule,ADRB2
+conf700,shared,CHEMBL1198857,asthma,VILANTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL1201231,asthma,PREDNISOLONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,shared,CHEMBL1002,asthma,LEVOSALBUTAMOL,Small molecule,ADRB2
+conf700,shared,CHEMBL635,asthma,PREDNISONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1263,asthma,SALMETEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL1187833,asthma,UMECLIDINIUM,Small molecule,CHRM3
+conf700,shared,CHEMBL1200500,asthma,BECLOMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf700,shared,CHEMBL211456,asthma,EPHEDRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf700,shared,CHEMBL1201335,asthma,GLYCOPYRRONIUM,Small molecule,CHRM1;CHRM2;CHRM3;CHRM4;CHRM5
+conf700,shared,CHEMBL160519,asthma,PROCATEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL977,asthma,HYDROCORTISONE HEMISUCCINATE ANHYDROUS,Small molecule,NR3C1
+conf700,shared,CHEMBL389621,asthma,HYDROCORTISONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201302,asthma,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,shared,CHEMBL32800,asthma,FENOTEROL,Small molecule,ADRB2
+conf700,shared,CHEMBL1512,asthma,FLUNISOLIDE,Small molecule,NR3C1
+conf700,shared,CHEMBL1900528,asthma,TIOTROPIUM,Small molecule,CHRM3
+conf700,shared,CHEMBL3707229,asthma,TEZEPELUMAB,Antibody,TSLP
+conf700,shared,CHEMBL2108675,asthma,DUPILUMAB,Antibody,IL4R
+conf700,shared,CHEMBL514800,psoriasis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf700,shared,CHEMBL989,psoriasis,FLUOCINOLONE ACETONIDE,Small molecule,NR3C1
+conf700,shared,CHEMBL4297911,psoriasis,SPESOLIMAB,Antibody,IL1RAP
+conf700,shared,CHEMBL1743068,psoriasis,SECUKINUMAB,Antibody,IL17A
+conf700,shared,CHEMBL1201581,psoriasis,INFLIXIMAB,Antibody,TNF
+conf700,shared,CHEMBL193240,psoriasis,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf700,shared,CHEMBL1200384,psoriasis,BETAMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf700,shared,CHEMBL1657,psoriasis,TAZAROTENE,Small molecule,RARA;RARB;RARG
+conf700,shared,CHEMBL1131,psoriasis,ACITRETIN,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf700,shared,CHEMBL256087,psoriasis,MENTHOL,Small molecule,TRPA1
+conf700,shared,CHEMBL2107333,psoriasis,DIMETHYL FUMARATE,Small molecule,KEAP1
+conf700,shared,CHEMBL464,psoriasis,ETRETINATE,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf700,shared,CHEMBL384467,psoriasis,DEXAMETHASONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201575,psoriasis,EFALIZUMAB,Antibody,ITGAL;ITGB2
+conf700,shared,CHEMBL4297700,psoriasis,BIMEKIZUMAB,Antibody,IL17A;IL17F
+conf700,shared,CHEMBL1766,psoriasis,DESOXIMETASONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1200908,psoriasis,HALOBETASOL PROPIONATE,Small molecule,NR3C1
+conf700,shared,CHEMBL4596392,psoriasis,CRAVACITINIB,Small molecule,TYK2
+conf700,shared,CHEMBL1743034,psoriasis,IXEKIZUMAB,Antibody,IL17A
+conf700,shared,CHEMBL1159650,psoriasis,CLOBETASOL PROPIONATE,Small molecule,NR3C1
+conf700,shared,CHEMBL131,psoriasis,PREDNISOLONE,Small molecule,NR3C1
+conf700,shared,CHEMBL259571,psoriasis,TAPINAROF,Small molecule,AHR
+conf700,shared,CHEMBL160,psoriasis,CYCLOSPORINE,Protein,PPIA
+conf700,shared,CHEMBL1201572,psoriasis,ETANERCEPT,Protein,TNF
+conf700,shared,CHEMBL635,psoriasis,PREDNISONE,Small molecule,NR3C1
+conf700,shared,CHEMBL2108681,psoriasis,TILDRAKIZUMAB,Antibody,IL12B;IL23A
+conf700,shared,CHEMBL2364648,psoriasis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf700,shared,CHEMBL389621,psoriasis,HYDROCORTISONE,Small molecule,NR3C1
+conf700,shared,CHEMBL1201302,psoriasis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf700,shared,CHEMBL1742996,psoriasis,BRODALUMAB,Antibody,IL17RA
+conf700,shared,CHEMBL1201835,psoriasis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf700,shared,CHEMBL1201580,psoriasis,ADALIMUMAB,Antibody,TNF
+conf700,shared,CHEMBL3990029,psoriasis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf900,full,CHEMBL493,type 2 diabetes mellitus,BROMOCRIPTINE,Small molecule,DRD2;DRD3;DRD4
+conf900,full,CHEMBL672,type 2 diabetes mellitus,FENOFIBRATE,Small molecule,PPARA
+conf900,full,CHEMBL1808388,type 2 diabetes mellitus,BEXAGLIFLOZIN,Small molecule,SLC5A2
+conf900,full,CHEMBL2107869,type 2 diabetes mellitus,INSULIN DEGLUDEC,Protein,INSR
+conf900,full,CHEMBL1422,type 2 diabetes mellitus,SITAGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL4594581,type 2 diabetes mellitus,INSULIN ICODEC,Protein,INSR
+conf900,full,CHEMBL2104391,type 2 diabetes mellitus,INSULIN DETEMIR,Protein,INSR
+conf900,full,CHEMBL429910,type 2 diabetes mellitus,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,full,CHEMBL4297658,type 2 diabetes mellitus,IPRAGLIFLOZIN L-PROLINE,Small molecule,SLC5A2
+conf900,full,CHEMBL595,type 2 diabetes mellitus,PIOGLITAZONE,Small molecule,PPARG
+conf900,full,CHEMBL414357,type 2 diabetes mellitus,EXENATIDE,Protein,GLP1R
+conf900,full,CHEMBL142703,type 2 diabetes mellitus,VILDAGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL782,type 2 diabetes mellitus,TOLBUTAMIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL2103825,type 2 diabetes mellitus,CETILISTAT,Small molecule,LIPF;PNLIP
+conf900,full,CHEMBL498,type 2 diabetes mellitus,CHLORPROPAMIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL2108027,type 2 diabetes mellitus,DULAGLUTIDE,Protein,GLP1R
+conf900,full,CHEMBL1650443,type 2 diabetes mellitus,TRELAGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL981,type 2 diabetes mellitus,FENOFIBRIC ACID,Small molecule,PPARA
+conf900,full,CHEMBL783,type 2 diabetes mellitus,NATEGLINIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL2107841,type 2 diabetes mellitus,ALBIGLUTIDE,Protein,GLP1R
+conf900,full,CHEMBL2048484,type 2 diabetes mellitus,CANAGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf900,full,CHEMBL472,type 2 diabetes mellitus,GLYBURIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL4084119,type 2 diabetes mellitus,LIRAGLUTIDE,Protein,GLP1R
+conf900,full,CHEMBL1929396,type 2 diabetes mellitus,ANAGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL1513,type 2 diabetes mellitus,IRBESARTAN,Small molecule,AGTR1
+conf900,full,CHEMBL1201631,type 2 diabetes mellitus,INSULIN HUMAN,Protein,INSR
+conf900,full,CHEMBL1770248,type 2 diabetes mellitus,ERTUGLIFLOZIN,Small molecule,SLC5A2
+conf900,full,CHEMBL376359,type 2 diabetes mellitus,ALOGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL3039507,type 2 diabetes mellitus,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf900,full,CHEMBL1073,type 2 diabetes mellitus,GLIPIZIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL2105762,type 2 diabetes mellitus,OMARIGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL237500,type 2 diabetes mellitus,LINAGLIPTIN,Small molecule,DPP4
+conf900,full,CHEMBL1431,type 2 diabetes mellitus,METFORMIN,Small molecule,MT-ND1;MT-ND2;MT-ND3;MT-ND4;MT-ND4L;MT-ND5;MT-ND6;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA5;NDUFA6;NDUFA7;NDUFA8;NDUFA9;NDUFAB1;NDUFAF1;NDUFAF2;NDUFAF3;NDUFAF4;NDUFB1;NDUFB10;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB6;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS1;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+conf900,full,CHEMBL4298005,type 2 diabetes mellitus,MITIGLINIDE CALCIUM DIHYDRATE,Unknown,ABCC8;KCNJ11
+conf900,full,CHEMBL2110731,type 2 diabetes mellitus,TOFOGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf900,full,CHEMBL2108724,type 2 diabetes mellitus,SEMAGLUTIDE,Protein,GLP1R
+conf900,full,CHEMBL121,type 2 diabetes mellitus,ROSIGLITAZONE,Small molecule,PPARG
+conf900,full,CHEMBL1201497,type 2 diabetes mellitus,INSULIN GLARGINE,Protein,INSR
+conf900,full,CHEMBL2108336,type 2 diabetes mellitus,LIXISENATIDE,Protein,GLP1R
+conf900,full,CHEMBL2107830,type 2 diabetes mellitus,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,full,CHEMBL1272,type 2 diabetes mellitus,REPAGLINIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL398435,type 2 diabetes mellitus,TICAGRELOR,Small molecule,P2RY12
+conf900,full,CHEMBL817,type 2 diabetes mellitus,TOLAZAMIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL1064,type 2 diabetes mellitus,SIMVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL1481,type 2 diabetes mellitus,GLIMEPIRIDE,Small molecule,ABCC8;KCNJ11
+conf900,full,CHEMBL4297839,type 2 diabetes mellitus,TIRZEPATIDE,Protein,GIPR;GLP1R
+conf900,full,CHEMBL2181927,type 2 diabetes mellitus,FINERENONE,Small molecule,NR3C2
+conf900,full,CHEMBL385517,type 2 diabetes mellitus,SAXAGLIPTIN ANHYDROUS,Small molecule,DPP4
+conf900,full,CHEMBL585,heart failure,TRIAMTERENE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf900,full,CHEMBL1201593,heart failure,ALTEPLASE,Enzyme,PLAT
+conf900,full,CHEMBL1201668,heart failure,NESIRITIDE,Protein,NPR1
+conf900,full,CHEMBL2107885,heart failure,RETEPLASE,Enzyme,PLAT
+conf900,full,CHEMBL1560,heart failure,CAPTOPRIL,Small molecule,ACE
+conf900,full,CHEMBL1393,heart failure,SPIRONOLACTONE,Small molecule,NR3C2
+conf900,full,CHEMBL471737,heart failure,IVABRADINE,Small molecule,HCN4
+conf900,full,CHEMBL429910,heart failure,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,full,CHEMBL53463,heart failure,DOXORUBICIN,Small molecule,TOP2A
+conf900,full,CHEMBL344159,heart failure,TOLVAPTAN,Small molecule,AVPR2
+conf900,full,CHEMBL1200692,heart failure,OLMESARTAN MEDOXOMIL,Small molecule,AGTR1
+conf900,full,CHEMBL1014,heart failure,CANDESARTAN CILEXETIL,Small molecule,AGTR1
+conf900,full,CHEMBL254219,heart failure,DIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,full,CHEMBL1614,heart failure,DESLANOSIDE,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,full,CHEMBL189,heart failure,MILRINONE,Small molecule,PDE3A
+conf900,full,CHEMBL1755,heart failure,CONIVAPTAN,Small molecule,AVPR1A;AVPR2
+conf900,full,CHEMBL238804,heart failure,SELEXIPAG,Small molecule,PTGIR
+conf900,full,CHEMBL515606,heart failure,CILAZAPRIL,Small molecule,ACE
+conf900,full,CHEMBL12856,heart failure,INAMRINONE,Small molecule,PDE3A
+conf900,full,CHEMBL1095097,heart failure,EPLERENONE,Small molecule,NR3C2
+conf900,full,CHEMBL1139,heart failure,EPOPROSTENOL,Small molecule,PTGIR
+conf900,full,CHEMBL1168,heart failure,RAMIPRIL,Small molecule,ACE
+conf900,full,CHEMBL1592,heart failure,QUINAPRIL,Small molecule,ACE
+conf900,full,CHEMBL2,heart failure,PRAZOSIN,Small molecule,ADRA1A;ADRA1B;ADRA1D
+conf900,full,CHEMBL249856,heart failure,ENOXIMONE,Small molecule,PDE3A;PDE3B
+conf900,full,CHEMBL20,heart failure,ACETAZOLAMIDE,Small molecule,CA2
+conf900,full,CHEMBL1519,heart failure,TRANDOLAPRIL,Small molecule,ACE
+conf900,full,CHEMBL2104386,heart failure,CARPERITIDE,Protein,NPR1;NPR2;NPR3
+conf900,full,CHEMBL945,heart failure,AMILORIDE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf900,full,CHEMBL13,heart failure,METOPROLOL,Small molecule,ADRB1
+conf900,full,CHEMBL1487,heart failure,ATORVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL1751,heart failure,DIGOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,full,CHEMBL1069,heart failure,VALSARTAN,Small molecule,AGTR1
+conf900,full,CHEMBL3039507,heart failure,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf900,full,CHEMBL723,heart failure,CARVEDILOL,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRB1;ADRB2;ADRB3
+conf900,full,CHEMBL1237,heart failure,LISINOPRIL ANHYDROUS,Small molecule,ACE
+conf900,full,CHEMBL59,heart failure,DOPAMINE,Small molecule,ADRB1
+conf900,full,CHEMBL434,heart failure,ISOPROTERENOL,Small molecule,ADRB1;ADRB2;ADRB3
+conf900,full,CHEMBL1491,heart failure,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf900,full,CHEMBL578,heart failure,ENALAPRIL,Small molecule,ACE
+conf900,full,CHEMBL2051955,heart failure,LEVOSIMENDAN,Small molecule,PDE3A;PDE3B;TNNC1;TNNI3;TNNT2
+conf900,full,CHEMBL2107830,heart failure,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,full,CHEMBL926,heart failure,DOBUTAMINE,Small molecule,ADRB1;ADRB2
+conf900,full,CHEMBL3137301,heart failure,SACUBITRIL,Small molecule,MME
+conf900,full,CHEMBL3545057,heart failure,ACETYLDIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,full,CHEMBL2181927,heart failure,FINERENONE,Small molecule,NR3C2
+conf900,full,CHEMBL3039598,heart failure,FOSINOPRIL,Small molecule,ACE
+conf900,full,CHEMBL3990033,hypercholesterolemia,INCLISIRAN,Oligonucleotide,PCSK9
+conf900,full,CHEMBL672,hypercholesterolemia,FENOFIBRATE,Small molecule,PPARA
+conf900,full,CHEMBL2220442,hypercholesterolemia,FLUVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL1201753,hypercholesterolemia,PITAVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL981,hypercholesterolemia,FENOFIBRIC ACID,Small molecule,PPARA
+conf900,full,CHEMBL1496,hypercholesterolemia,ROSUVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL2109540,hypercholesterolemia,ALIROCUMAB,Antibody,PCSK9
+conf900,full,CHEMBL1487,hypercholesterolemia,ATORVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL1144,hypercholesterolemia,PRAVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL3545191,hypercholesterolemia,EVINACUMAB,Antibody,ANGPTL3
+conf900,full,CHEMBL3545313,hypercholesterolemia,BEMPEDOIC ACID,Small molecule,ACLY
+conf900,full,CHEMBL503,hypercholesterolemia,LOVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL354541,hypercholesterolemia,LOMITAPIDE,Small molecule,MTTP;P4HB
+conf900,full,CHEMBL1491,hypercholesterolemia,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf900,full,CHEMBL5095052,hypercholesterolemia,INCLISIRAN SODIUM,Oligonucleotide,PCSK9
+conf900,full,CHEMBL2364655,hypercholesterolemia,EVOLOCUMAB,Antibody,PCSK9
+conf900,full,CHEMBL1064,hypercholesterolemia,SIMVASTATIN,Small molecule,HMGCR
+conf900,full,CHEMBL514800,rheumatoid arthritis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf900,full,CHEMBL571,rheumatoid arthritis,KETOPROFEN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL2105759,rheumatoid arthritis,BARICITINIB,Small molecule,JAK1;JAK2
+conf900,full,CHEMBL384467,rheumatoid arthritis,DEXAMETHASONE,Small molecule,NR3C1
+conf900,full,CHEMBL1650,rheumatoid arthritis,CORTISONE ACETATE,Small molecule,NR3C1
+conf900,full,CHEMBL1535,rheumatoid arthritis,HYDROXYCHLOROQUINE,Small molecule,TLR7;TLR9
+conf900,full,CHEMBL599,rheumatoid arthritis,MELOXICAM,Small molecule,PTGS2
+conf900,full,CHEMBL1743034,rheumatoid arthritis,IXEKIZUMAB,Antibody,IL17A
+conf900,full,CHEMBL1503,rheumatoid arthritis,OMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf900,full,CHEMBL521,rheumatoid arthritis,IBUPROFEN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL3301607,rheumatoid arthritis,FILGOTINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,full,CHEMBL2364648,rheumatoid arthritis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf900,full,CHEMBL221959,rheumatoid arthritis,TOFACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,full,CHEMBL93645,rheumatoid arthritis,ACECLOFENAC,Small molecule,PTGS2
+conf900,full,CHEMBL94081,rheumatoid arthritis,ALCLOFENAC,Small molecule,PTGS1
+conf900,full,CHEMBL389621,rheumatoid arthritis,HYDROCORTISONE,Small molecule,NR3C1
+conf900,full,CHEMBL1071,rheumatoid arthritis,OXAPROZIN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL865,rheumatoid arthritis,VALDECOXIB,Small molecule,PTGS2
+conf900,full,CHEMBL1201265,rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf900,full,CHEMBL1020,rheumatoid arthritis,TOLMETIN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL3622821,rheumatoid arthritis,UPADACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,full,CHEMBL622,rheumatoid arthritis,ETODOLAC,Small molecule,PTGS2
+conf900,full,CHEMBL2108730,rheumatoid arthritis,SARILUMAB,Antibody,IL6R
+conf900,full,CHEMBL1201833,rheumatoid arthritis,GOLIMUMAB,Antibody,TNF
+conf900,full,CHEMBL606,rheumatoid arthritis,MISOPROSTOL,Small molecule,PTGER3
+conf900,full,CHEMBL1742996,rheumatoid arthritis,BRODALUMAB,Antibody,IL17RA
+conf900,full,CHEMBL3990029,rheumatoid arthritis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf900,full,CHEMBL1743068,rheumatoid arthritis,SECUKINUMAB,Antibody,IL17A
+conf900,full,CHEMBL1201581,rheumatoid arthritis,INFLIXIMAB,Antibody,TNF
+conf900,full,CHEMBL1201320,rheumatoid arthritis,ESOMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf900,full,CHEMBL527,rheumatoid arthritis,PIROXICAM,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1364144,rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf900,full,CHEMBL118,rheumatoid arthritis,CELECOXIB,Small molecule,PTGS2
+conf900,full,CHEMBL131,rheumatoid arthritis,PREDNISOLONE,Small molecule,NR3C1
+conf900,full,CHEMBL898,rheumatoid arthritis,DIFLUNISAL,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1070,rheumatoid arthritis,NABUMETONE,Small molecule,PTGS2
+conf900,full,CHEMBL6,rheumatoid arthritis,INDOMETHACIN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL139,rheumatoid arthritis,DICLOFENAC,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1201572,rheumatoid arthritis,ETANERCEPT,Protein,TNF
+conf900,full,CHEMBL2107455,rheumatoid arthritis,IGURATIMOD,Small molecule,MIF;PTGS2;TRAF3IP2
+conf900,full,CHEMBL563,rheumatoid arthritis,FLURBIPROFEN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL421,rheumatoid arthritis,SULFASALAZINE,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1201835,rheumatoid arthritis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf900,full,CHEMBL509,rheumatoid arthritis,MECLOFENAMIC ACID,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1743054,rheumatoid arthritis,OZORALIZUMAB,Antibody,TNF
+conf900,full,CHEMBL1201570,rheumatoid arthritis,ANAKINRA,Protein,IL1R1
+conf900,full,CHEMBL416146,rheumatoid arthritis,ETORICOXIB,Small molecule,PTGS2
+conf900,full,CHEMBL15770,rheumatoid arthritis,SULINDAC,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1504,rheumatoid arthritis,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf900,full,CHEMBL175,rheumatoid arthritis,DEXIBUPROFEN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL1237022,rheumatoid arthritis,TOCILIZUMAB,Antibody,IL6R
+conf900,full,CHEMBL650,rheumatoid arthritis,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf900,full,CHEMBL154,rheumatoid arthritis,NAPROXEN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL3137308,rheumatoid arthritis,PEFICITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,full,CHEMBL1542,rheumatoid arthritis,AZATHIOPRINE,Small molecule,PPAT
+conf900,full,CHEMBL1201831,rheumatoid arthritis,CERTOLIZUMAB PEGOL,Antibody,TNF
+conf900,full,CHEMBL1297,rheumatoid arthritis,FENOPROFEN,Small molecule,PTGS1;PTGS2
+conf900,full,CHEMBL160,rheumatoid arthritis,CYCLOSPORINE,Protein,PPIA
+conf900,full,CHEMBL635,rheumatoid arthritis,PREDNISONE,Small molecule,NR3C1
+conf900,full,CHEMBL1201834,rheumatoid arthritis,CANAKINUMAB,Antibody,IL1B
+conf900,full,CHEMBL1201302,rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,full,CHEMBL1201823,rheumatoid arthritis,ABATACEPT,Protein,CD80;CD86
+conf900,full,CHEMBL1201580,rheumatoid arthritis,ADALIMUMAB,Antibody,TNF
+conf900,full,CHEMBL1161,asthma,MOMETASONE FUROATE,Small molecule,NR3C1
+conf900,full,CHEMBL1504,asthma,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf900,full,CHEMBL2107884,asthma,RESLIZUMAB,Antibody,IL5
+conf900,full,CHEMBL1760,asthma,TERBUTALINE,Small molecule,ADRB2
+conf900,full,CHEMBL1194325,asthma,ACLIDINIUM,Small molecule,CHRM3
+conf900,full,CHEMBL1473,asthma,FLUTICASONE PROPIONATE,Small molecule,NR3C1
+conf900,full,CHEMBL521589,asthma,BAMBUTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL603,asthma,ZAFIRLUKAST,Small molecule,CYSLTR1
+conf900,full,CHEMBL978,asthma,METHACHOLINE,Small molecule,CHRM3
+conf900,full,CHEMBL21333,asthma,PRANLUKAST,Small molecule,CYSLTR1
+conf900,full,CHEMBL1370,asthma,BUDESONIDE,Small molecule,NR3C1
+conf900,full,CHEMBL193240,asthma,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf900,full,CHEMBL2040682,asthma,CICLESONIDE,Small molecule,NR3C1
+conf900,full,CHEMBL4650469,asthma,DEPEMOKIMAB,Antibody,IL5
+conf900,full,CHEMBL650,asthma,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf900,full,CHEMBL1095777,asthma,INDACATEROL,Small molecule,ADRB2
+conf900,full,CHEMBL256087,asthma,MENTHOL,Small molecule,TRPA1
+conf900,full,CHEMBL1201265,asthma,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf900,full,CHEMBL1201295,asthma,BITOLTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL1742991,asthma,BENRALIZUMAB,Antibody,IL5RA
+conf900,full,CHEMBL1200774,asthma,FLUPREDNISOLONE,Small molecule,NR3C1
+conf900,full,CHEMBL787,asthma,MONTELUKAST,Small molecule,CYSLTR1
+conf900,full,CHEMBL1364144,asthma,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf900,full,CHEMBL1201273,asthma,PROTOKYLOL,Small molecule,ADRB2
+conf900,full,CHEMBL384467,asthma,DEXAMETHASONE,Small molecule,NR3C1
+conf900,full,CHEMBL2108429,asthma,MEPOLIZUMAB,Antibody,IL5
+conf900,full,CHEMBL1650,asthma,CORTISONE ACETATE,Small molecule,NR3C1
+conf900,full,CHEMBL1094966,asthma,PIRBUTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL131,asthma,PREDNISOLONE,Small molecule,NR3C1
+conf900,full,CHEMBL1201213,asthma,ISOETHARINE,Small molecule,ADRB2
+conf900,full,CHEMBL714,asthma,ALBUTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL1621597,asthma,IPRATROPIUM,Small molecule,CHRM3
+conf900,full,CHEMBL190,asthma,THEOPHYLLINE ANHYDROUS,Protein,ADORA1;ADORA2A;ADORA2B;ADORA3;PDE3A;PDE3B;PDE4B;PDE4D
+conf900,full,CHEMBL1256786,asthma,FORMOTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL1676,asthma,FLUTICASONE FUROATE,Small molecule,NR3C1
+conf900,full,CHEMBL1200538,asthma,BETAMETHASONE ACETATE,Small molecule,NR3C1
+conf900,full,CHEMBL88055,asthma,RIMITEROL,Small molecule,ADRB2
+conf900,full,CHEMBL679,asthma,EPINEPHRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf900,full,CHEMBL776,asthma,METAPROTERENOL,Small molecule,ADRB2
+conf900,full,CHEMBL1198857,asthma,VILANTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL1201231,asthma,PREDNISOLONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,full,CHEMBL1002,asthma,LEVOSALBUTAMOL,Small molecule,ADRB2
+conf900,full,CHEMBL635,asthma,PREDNISONE,Small molecule,NR3C1
+conf900,full,CHEMBL1263,asthma,SALMETEROL,Small molecule,ADRB2
+conf900,full,CHEMBL1187833,asthma,UMECLIDINIUM,Small molecule,CHRM3
+conf900,full,CHEMBL1200500,asthma,BECLOMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf900,full,CHEMBL211456,asthma,EPHEDRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf900,full,CHEMBL1201335,asthma,GLYCOPYRRONIUM,Small molecule,CHRM1;CHRM2;CHRM3;CHRM4;CHRM5
+conf900,full,CHEMBL160519,asthma,PROCATEROL,Small molecule,ADRB2
+conf900,full,CHEMBL977,asthma,HYDROCORTISONE HEMISUCCINATE ANHYDROUS,Small molecule,NR3C1
+conf900,full,CHEMBL389621,asthma,HYDROCORTISONE,Small molecule,NR3C1
+conf900,full,CHEMBL1201302,asthma,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,full,CHEMBL32800,asthma,FENOTEROL,Small molecule,ADRB2
+conf900,full,CHEMBL1512,asthma,FLUNISOLIDE,Small molecule,NR3C1
+conf900,full,CHEMBL1900528,asthma,TIOTROPIUM,Small molecule,CHRM3
+conf900,full,CHEMBL3707229,asthma,TEZEPELUMAB,Antibody,TSLP
+conf900,full,CHEMBL2108675,asthma,DUPILUMAB,Antibody,IL4R
+conf900,full,CHEMBL514800,psoriasis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf900,full,CHEMBL989,psoriasis,FLUOCINOLONE ACETONIDE,Small molecule,NR3C1
+conf900,full,CHEMBL4297911,psoriasis,SPESOLIMAB,Antibody,IL1RAP
+conf900,full,CHEMBL1743068,psoriasis,SECUKINUMAB,Antibody,IL17A
+conf900,full,CHEMBL1201581,psoriasis,INFLIXIMAB,Antibody,TNF
+conf900,full,CHEMBL193240,psoriasis,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf900,full,CHEMBL1200384,psoriasis,BETAMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf900,full,CHEMBL1657,psoriasis,TAZAROTENE,Small molecule,RARA;RARB;RARG
+conf900,full,CHEMBL1131,psoriasis,ACITRETIN,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf900,full,CHEMBL256087,psoriasis,MENTHOL,Small molecule,TRPA1
+conf900,full,CHEMBL2107333,psoriasis,DIMETHYL FUMARATE,Small molecule,KEAP1
+conf900,full,CHEMBL464,psoriasis,ETRETINATE,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf900,full,CHEMBL384467,psoriasis,DEXAMETHASONE,Small molecule,NR3C1
+conf900,full,CHEMBL1201575,psoriasis,EFALIZUMAB,Antibody,ITGAL;ITGB2
+conf900,full,CHEMBL4297700,psoriasis,BIMEKIZUMAB,Antibody,IL17A;IL17F
+conf900,full,CHEMBL1766,psoriasis,DESOXIMETASONE,Small molecule,NR3C1
+conf900,full,CHEMBL1200908,psoriasis,HALOBETASOL PROPIONATE,Small molecule,NR3C1
+conf900,full,CHEMBL4596392,psoriasis,CRAVACITINIB,Small molecule,TYK2
+conf900,full,CHEMBL1743034,psoriasis,IXEKIZUMAB,Antibody,IL17A
+conf900,full,CHEMBL1159650,psoriasis,CLOBETASOL PROPIONATE,Small molecule,NR3C1
+conf900,full,CHEMBL131,psoriasis,PREDNISOLONE,Small molecule,NR3C1
+conf900,full,CHEMBL259571,psoriasis,TAPINAROF,Small molecule,AHR
+conf900,full,CHEMBL160,psoriasis,CYCLOSPORINE,Protein,PPIA
+conf900,full,CHEMBL1201572,psoriasis,ETANERCEPT,Protein,TNF
+conf900,full,CHEMBL635,psoriasis,PREDNISONE,Small molecule,NR3C1
+conf900,full,CHEMBL2108681,psoriasis,TILDRAKIZUMAB,Antibody,IL12B;IL23A
+conf900,full,CHEMBL2364648,psoriasis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf900,full,CHEMBL389621,psoriasis,HYDROCORTISONE,Small molecule,NR3C1
+conf900,full,CHEMBL1201302,psoriasis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,full,CHEMBL1742996,psoriasis,BRODALUMAB,Antibody,IL17RA
+conf900,full,CHEMBL1201835,psoriasis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf900,full,CHEMBL1201580,psoriasis,ADALIMUMAB,Antibody,TNF
+conf900,full,CHEMBL3990029,psoriasis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf900,shared,CHEMBL493,type 2 diabetes mellitus,BROMOCRIPTINE,Small molecule,DRD2;DRD3;DRD4
+conf900,shared,CHEMBL672,type 2 diabetes mellitus,FENOFIBRATE,Small molecule,PPARA
+conf900,shared,CHEMBL1808388,type 2 diabetes mellitus,BEXAGLIFLOZIN,Small molecule,SLC5A2
+conf900,shared,CHEMBL2107869,type 2 diabetes mellitus,INSULIN DEGLUDEC,Protein,INSR
+conf900,shared,CHEMBL1422,type 2 diabetes mellitus,SITAGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL4594581,type 2 diabetes mellitus,INSULIN ICODEC,Protein,INSR
+conf900,shared,CHEMBL2104391,type 2 diabetes mellitus,INSULIN DETEMIR,Protein,INSR
+conf900,shared,CHEMBL429910,type 2 diabetes mellitus,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,shared,CHEMBL4297658,type 2 diabetes mellitus,IPRAGLIFLOZIN L-PROLINE,Small molecule,SLC5A2
+conf900,shared,CHEMBL595,type 2 diabetes mellitus,PIOGLITAZONE,Small molecule,PPARG
+conf900,shared,CHEMBL414357,type 2 diabetes mellitus,EXENATIDE,Protein,GLP1R
+conf900,shared,CHEMBL142703,type 2 diabetes mellitus,VILDAGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL782,type 2 diabetes mellitus,TOLBUTAMIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL2103825,type 2 diabetes mellitus,CETILISTAT,Small molecule,LIPF;PNLIP
+conf900,shared,CHEMBL498,type 2 diabetes mellitus,CHLORPROPAMIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL2108027,type 2 diabetes mellitus,DULAGLUTIDE,Protein,GLP1R
+conf900,shared,CHEMBL1650443,type 2 diabetes mellitus,TRELAGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL981,type 2 diabetes mellitus,FENOFIBRIC ACID,Small molecule,PPARA
+conf900,shared,CHEMBL783,type 2 diabetes mellitus,NATEGLINIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL2107841,type 2 diabetes mellitus,ALBIGLUTIDE,Protein,GLP1R
+conf900,shared,CHEMBL2048484,type 2 diabetes mellitus,CANAGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf900,shared,CHEMBL472,type 2 diabetes mellitus,GLYBURIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL4084119,type 2 diabetes mellitus,LIRAGLUTIDE,Protein,GLP1R
+conf900,shared,CHEMBL1929396,type 2 diabetes mellitus,ANAGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL1513,type 2 diabetes mellitus,IRBESARTAN,Small molecule,AGTR1
+conf900,shared,CHEMBL1201631,type 2 diabetes mellitus,INSULIN HUMAN,Protein,INSR
+conf900,shared,CHEMBL1770248,type 2 diabetes mellitus,ERTUGLIFLOZIN,Small molecule,SLC5A2
+conf900,shared,CHEMBL376359,type 2 diabetes mellitus,ALOGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL3039507,type 2 diabetes mellitus,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf900,shared,CHEMBL1073,type 2 diabetes mellitus,GLIPIZIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL2105762,type 2 diabetes mellitus,OMARIGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL237500,type 2 diabetes mellitus,LINAGLIPTIN,Small molecule,DPP4
+conf900,shared,CHEMBL1431,type 2 diabetes mellitus,METFORMIN,Small molecule,MT-ND1;MT-ND2;MT-ND3;MT-ND4;MT-ND4L;MT-ND5;MT-ND6;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA5;NDUFA6;NDUFA7;NDUFA8;NDUFA9;NDUFAB1;NDUFAF1;NDUFAF2;NDUFAF3;NDUFAF4;NDUFB1;NDUFB10;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB6;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS1;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+conf900,shared,CHEMBL4298005,type 2 diabetes mellitus,MITIGLINIDE CALCIUM DIHYDRATE,Unknown,ABCC8;KCNJ11
+conf900,shared,CHEMBL2110731,type 2 diabetes mellitus,TOFOGLIFLOZIN ANHYDROUS,Small molecule,SLC5A2
+conf900,shared,CHEMBL2108724,type 2 diabetes mellitus,SEMAGLUTIDE,Protein,GLP1R
+conf900,shared,CHEMBL121,type 2 diabetes mellitus,ROSIGLITAZONE,Small molecule,PPARG
+conf900,shared,CHEMBL1201497,type 2 diabetes mellitus,INSULIN GLARGINE,Protein,INSR
+conf900,shared,CHEMBL2108336,type 2 diabetes mellitus,LIXISENATIDE,Protein,GLP1R
+conf900,shared,CHEMBL2107830,type 2 diabetes mellitus,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,shared,CHEMBL1272,type 2 diabetes mellitus,REPAGLINIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL398435,type 2 diabetes mellitus,TICAGRELOR,Small molecule,P2RY12
+conf900,shared,CHEMBL817,type 2 diabetes mellitus,TOLAZAMIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL1064,type 2 diabetes mellitus,SIMVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL1481,type 2 diabetes mellitus,GLIMEPIRIDE,Small molecule,ABCC8;KCNJ11
+conf900,shared,CHEMBL4297839,type 2 diabetes mellitus,TIRZEPATIDE,Protein,GIPR;GLP1R
+conf900,shared,CHEMBL2181927,type 2 diabetes mellitus,FINERENONE,Small molecule,NR3C2
+conf900,shared,CHEMBL385517,type 2 diabetes mellitus,SAXAGLIPTIN ANHYDROUS,Small molecule,DPP4
+conf900,shared,CHEMBL585,heart failure,TRIAMTERENE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf900,shared,CHEMBL1201593,heart failure,ALTEPLASE,Enzyme,PLAT
+conf900,shared,CHEMBL1201668,heart failure,NESIRITIDE,Protein,NPR1
+conf900,shared,CHEMBL2107885,heart failure,RETEPLASE,Enzyme,PLAT
+conf900,shared,CHEMBL1560,heart failure,CAPTOPRIL,Small molecule,ACE
+conf900,shared,CHEMBL1393,heart failure,SPIRONOLACTONE,Small molecule,NR3C2
+conf900,shared,CHEMBL471737,heart failure,IVABRADINE,Small molecule,HCN4
+conf900,shared,CHEMBL429910,heart failure,DAPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,shared,CHEMBL53463,heart failure,DOXORUBICIN,Small molecule,TOP2A
+conf900,shared,CHEMBL344159,heart failure,TOLVAPTAN,Small molecule,AVPR2
+conf900,shared,CHEMBL1200692,heart failure,OLMESARTAN MEDOXOMIL,Small molecule,AGTR1
+conf900,shared,CHEMBL1014,heart failure,CANDESARTAN CILEXETIL,Small molecule,AGTR1
+conf900,shared,CHEMBL254219,heart failure,DIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,shared,CHEMBL1614,heart failure,DESLANOSIDE,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,shared,CHEMBL189,heart failure,MILRINONE,Small molecule,PDE3A
+conf900,shared,CHEMBL1755,heart failure,CONIVAPTAN,Small molecule,AVPR1A;AVPR2
+conf900,shared,CHEMBL238804,heart failure,SELEXIPAG,Small molecule,PTGIR
+conf900,shared,CHEMBL515606,heart failure,CILAZAPRIL,Small molecule,ACE
+conf900,shared,CHEMBL12856,heart failure,INAMRINONE,Small molecule,PDE3A
+conf900,shared,CHEMBL1095097,heart failure,EPLERENONE,Small molecule,NR3C2
+conf900,shared,CHEMBL1139,heart failure,EPOPROSTENOL,Small molecule,PTGIR
+conf900,shared,CHEMBL1168,heart failure,RAMIPRIL,Small molecule,ACE
+conf900,shared,CHEMBL1592,heart failure,QUINAPRIL,Small molecule,ACE
+conf900,shared,CHEMBL2,heart failure,PRAZOSIN,Small molecule,ADRA1A;ADRA1B;ADRA1D
+conf900,shared,CHEMBL249856,heart failure,ENOXIMONE,Small molecule,PDE3A;PDE3B
+conf900,shared,CHEMBL20,heart failure,ACETAZOLAMIDE,Small molecule,CA2
+conf900,shared,CHEMBL1519,heart failure,TRANDOLAPRIL,Small molecule,ACE
+conf900,shared,CHEMBL2104386,heart failure,CARPERITIDE,Protein,NPR1;NPR2;NPR3
+conf900,shared,CHEMBL945,heart failure,AMILORIDE,Small molecule,SCNN1A;SCNN1B;SCNN1G
+conf900,shared,CHEMBL13,heart failure,METOPROLOL,Small molecule,ADRB1
+conf900,shared,CHEMBL1487,heart failure,ATORVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL1751,heart failure,DIGOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,shared,CHEMBL1069,heart failure,VALSARTAN,Small molecule,AGTR1
+conf900,shared,CHEMBL3039507,heart failure,SOTAGLIFLOZIN,Small molecule,SLC5A1;SLC5A2
+conf900,shared,CHEMBL723,heart failure,CARVEDILOL,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRB1;ADRB2;ADRB3
+conf900,shared,CHEMBL1237,heart failure,LISINOPRIL ANHYDROUS,Small molecule,ACE
+conf900,shared,CHEMBL59,heart failure,DOPAMINE,Small molecule,ADRB1
+conf900,shared,CHEMBL434,heart failure,ISOPROTERENOL,Small molecule,ADRB1;ADRB2;ADRB3
+conf900,shared,CHEMBL1491,heart failure,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf900,shared,CHEMBL578,heart failure,ENALAPRIL,Small molecule,ACE
+conf900,shared,CHEMBL2051955,heart failure,LEVOSIMENDAN,Small molecule,PDE3A;PDE3B;TNNC1;TNNI3;TNNT2
+conf900,shared,CHEMBL2107830,heart failure,EMPAGLIFLOZIN,Small molecule,SLC5A2
+conf900,shared,CHEMBL926,heart failure,DOBUTAMINE,Small molecule,ADRB1;ADRB2
+conf900,shared,CHEMBL3137301,heart failure,SACUBITRIL,Small molecule,MME
+conf900,shared,CHEMBL3545057,heart failure,ACETYLDIGITOXIN,Small molecule,ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;FXYD2
+conf900,shared,CHEMBL2181927,heart failure,FINERENONE,Small molecule,NR3C2
+conf900,shared,CHEMBL3039598,heart failure,FOSINOPRIL,Small molecule,ACE
+conf900,shared,CHEMBL3990033,hypercholesterolemia,INCLISIRAN,Oligonucleotide,PCSK9
+conf900,shared,CHEMBL672,hypercholesterolemia,FENOFIBRATE,Small molecule,PPARA
+conf900,shared,CHEMBL2220442,hypercholesterolemia,FLUVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL1201753,hypercholesterolemia,PITAVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL981,hypercholesterolemia,FENOFIBRIC ACID,Small molecule,PPARA
+conf900,shared,CHEMBL1496,hypercholesterolemia,ROSUVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL2109540,hypercholesterolemia,ALIROCUMAB,Antibody,PCSK9
+conf900,shared,CHEMBL1487,hypercholesterolemia,ATORVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL1144,hypercholesterolemia,PRAVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL3545191,hypercholesterolemia,EVINACUMAB,Antibody,ANGPTL3
+conf900,shared,CHEMBL3545313,hypercholesterolemia,BEMPEDOIC ACID,Small molecule,ACLY
+conf900,shared,CHEMBL503,hypercholesterolemia,LOVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL354541,hypercholesterolemia,LOMITAPIDE,Small molecule,MTTP;P4HB
+conf900,shared,CHEMBL1491,hypercholesterolemia,AMLODIPINE,Small molecule,CACNA1C;CACNA1D;CACNA1F;CACNA1S
+conf900,shared,CHEMBL5095052,hypercholesterolemia,INCLISIRAN SODIUM,Oligonucleotide,PCSK9
+conf900,shared,CHEMBL2364655,hypercholesterolemia,EVOLOCUMAB,Antibody,PCSK9
+conf900,shared,CHEMBL1064,hypercholesterolemia,SIMVASTATIN,Small molecule,HMGCR
+conf900,shared,CHEMBL514800,rheumatoid arthritis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf900,shared,CHEMBL571,rheumatoid arthritis,KETOPROFEN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL2105759,rheumatoid arthritis,BARICITINIB,Small molecule,JAK1;JAK2
+conf900,shared,CHEMBL384467,rheumatoid arthritis,DEXAMETHASONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1650,rheumatoid arthritis,CORTISONE ACETATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1535,rheumatoid arthritis,HYDROXYCHLOROQUINE,Small molecule,TLR7;TLR9
+conf900,shared,CHEMBL599,rheumatoid arthritis,MELOXICAM,Small molecule,PTGS2
+conf900,shared,CHEMBL1743034,rheumatoid arthritis,IXEKIZUMAB,Antibody,IL17A
+conf900,shared,CHEMBL1503,rheumatoid arthritis,OMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf900,shared,CHEMBL521,rheumatoid arthritis,IBUPROFEN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL3301607,rheumatoid arthritis,FILGOTINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,shared,CHEMBL2364648,rheumatoid arthritis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf900,shared,CHEMBL221959,rheumatoid arthritis,TOFACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,shared,CHEMBL93645,rheumatoid arthritis,ACECLOFENAC,Small molecule,PTGS2
+conf900,shared,CHEMBL94081,rheumatoid arthritis,ALCLOFENAC,Small molecule,PTGS1
+conf900,shared,CHEMBL389621,rheumatoid arthritis,HYDROCORTISONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1071,rheumatoid arthritis,OXAPROZIN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL865,rheumatoid arthritis,VALDECOXIB,Small molecule,PTGS2
+conf900,shared,CHEMBL1201265,rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1020,rheumatoid arthritis,TOLMETIN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL3622821,rheumatoid arthritis,UPADACITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,shared,CHEMBL622,rheumatoid arthritis,ETODOLAC,Small molecule,PTGS2
+conf900,shared,CHEMBL2108730,rheumatoid arthritis,SARILUMAB,Antibody,IL6R
+conf900,shared,CHEMBL1201833,rheumatoid arthritis,GOLIMUMAB,Antibody,TNF
+conf900,shared,CHEMBL606,rheumatoid arthritis,MISOPROSTOL,Small molecule,PTGER3
+conf900,shared,CHEMBL1742996,rheumatoid arthritis,BRODALUMAB,Antibody,IL17RA
+conf900,shared,CHEMBL3990029,rheumatoid arthritis,RISANKIZUMAB,Antibody,IL12B;IL23A
+conf900,shared,CHEMBL1743068,rheumatoid arthritis,SECUKINUMAB,Antibody,IL17A
+conf900,shared,CHEMBL1201581,rheumatoid arthritis,INFLIXIMAB,Antibody,TNF
+conf900,shared,CHEMBL1201320,rheumatoid arthritis,ESOMEPRAZOLE,Small molecule,ATP4A;ATP4B
+conf900,shared,CHEMBL527,rheumatoid arthritis,PIROXICAM,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1364144,rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf900,shared,CHEMBL118,rheumatoid arthritis,CELECOXIB,Small molecule,PTGS2
+conf900,shared,CHEMBL131,rheumatoid arthritis,PREDNISOLONE,Small molecule,NR3C1
+conf900,shared,CHEMBL898,rheumatoid arthritis,DIFLUNISAL,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1070,rheumatoid arthritis,NABUMETONE,Small molecule,PTGS2
+conf900,shared,CHEMBL6,rheumatoid arthritis,INDOMETHACIN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL139,rheumatoid arthritis,DICLOFENAC,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1201572,rheumatoid arthritis,ETANERCEPT,Protein,TNF
+conf900,shared,CHEMBL2107455,rheumatoid arthritis,IGURATIMOD,Small molecule,MIF;PTGS2;TRAF3IP2
+conf900,shared,CHEMBL563,rheumatoid arthritis,FLURBIPROFEN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL421,rheumatoid arthritis,SULFASALAZINE,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1201835,rheumatoid arthritis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf900,shared,CHEMBL509,rheumatoid arthritis,MECLOFENAMIC ACID,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1743054,rheumatoid arthritis,OZORALIZUMAB,Antibody,TNF
+conf900,shared,CHEMBL1201570,rheumatoid arthritis,ANAKINRA,Protein,IL1R1
+conf900,shared,CHEMBL416146,rheumatoid arthritis,ETORICOXIB,Small molecule,PTGS2
+conf900,shared,CHEMBL15770,rheumatoid arthritis,SULINDAC,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1504,rheumatoid arthritis,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf900,shared,CHEMBL175,rheumatoid arthritis,DEXIBUPROFEN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL1237022,rheumatoid arthritis,TOCILIZUMAB,Antibody,IL6R
+conf900,shared,CHEMBL650,rheumatoid arthritis,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf900,shared,CHEMBL154,rheumatoid arthritis,NAPROXEN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL3137308,rheumatoid arthritis,PEFICITINIB,Small molecule,JAK1;JAK2;JAK3;TYK2
+conf900,shared,CHEMBL1542,rheumatoid arthritis,AZATHIOPRINE,Small molecule,PPAT
+conf900,shared,CHEMBL1201831,rheumatoid arthritis,CERTOLIZUMAB PEGOL,Antibody,TNF
+conf900,shared,CHEMBL1297,rheumatoid arthritis,FENOPROFEN,Small molecule,PTGS1;PTGS2
+conf900,shared,CHEMBL160,rheumatoid arthritis,CYCLOSPORINE,Protein,PPIA
+conf900,shared,CHEMBL635,rheumatoid arthritis,PREDNISONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201834,rheumatoid arthritis,CANAKINUMAB,Antibody,IL1B
+conf900,shared,CHEMBL1201302,rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,shared,CHEMBL1201823,rheumatoid arthritis,ABATACEPT,Protein,CD80;CD86
+conf900,shared,CHEMBL1201580,rheumatoid arthritis,ADALIMUMAB,Antibody,TNF
+conf900,shared,CHEMBL1161,asthma,MOMETASONE FUROATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1504,asthma,TRIAMCINOLONE ACETONIDE,Small molecule,NR3C1
+conf900,shared,CHEMBL2107884,asthma,RESLIZUMAB,Antibody,IL5
+conf900,shared,CHEMBL1760,asthma,TERBUTALINE,Small molecule,ADRB2
+conf900,shared,CHEMBL1194325,asthma,ACLIDINIUM,Small molecule,CHRM3
+conf900,shared,CHEMBL1473,asthma,FLUTICASONE PROPIONATE,Small molecule,NR3C1
+conf900,shared,CHEMBL521589,asthma,BAMBUTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL603,asthma,ZAFIRLUKAST,Small molecule,CYSLTR1
+conf900,shared,CHEMBL978,asthma,METHACHOLINE,Small molecule,CHRM3
+conf900,shared,CHEMBL21333,asthma,PRANLUKAST,Small molecule,CYSLTR1
+conf900,shared,CHEMBL1370,asthma,BUDESONIDE,Small molecule,NR3C1
+conf900,shared,CHEMBL193240,asthma,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf900,shared,CHEMBL2040682,asthma,CICLESONIDE,Small molecule,NR3C1
+conf900,shared,CHEMBL4650469,asthma,DEPEMOKIMAB,Antibody,IL5
+conf900,shared,CHEMBL650,asthma,METHYLPREDNISOLONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1095777,asthma,INDACATEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL256087,asthma,MENTHOL,Small molecule,TRPA1
+conf900,shared,CHEMBL1201265,asthma,METHYLPREDNISOLONE HEMISUCCINATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201295,asthma,BITOLTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL1742991,asthma,BENRALIZUMAB,Antibody,IL5RA
+conf900,shared,CHEMBL1200774,asthma,FLUPREDNISOLONE,Small molecule,NR3C1
+conf900,shared,CHEMBL787,asthma,MONTELUKAST,Small molecule,CYSLTR1
+conf900,shared,CHEMBL1364144,asthma,METHYLPREDNISOLONE ACETATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201273,asthma,PROTOKYLOL,Small molecule,ADRB2
+conf900,shared,CHEMBL384467,asthma,DEXAMETHASONE,Small molecule,NR3C1
+conf900,shared,CHEMBL2108429,asthma,MEPOLIZUMAB,Antibody,IL5
+conf900,shared,CHEMBL1650,asthma,CORTISONE ACETATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1094966,asthma,PIRBUTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL131,asthma,PREDNISOLONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201213,asthma,ISOETHARINE,Small molecule,ADRB2
+conf900,shared,CHEMBL714,asthma,ALBUTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL1621597,asthma,IPRATROPIUM,Small molecule,CHRM3
+conf900,shared,CHEMBL190,asthma,THEOPHYLLINE ANHYDROUS,Protein,ADORA1;ADORA2A;ADORA2B;ADORA3;PDE3A;PDE3B;PDE4B;PDE4D
+conf900,shared,CHEMBL1256786,asthma,FORMOTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL1676,asthma,FLUTICASONE FUROATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1200538,asthma,BETAMETHASONE ACETATE,Small molecule,NR3C1
+conf900,shared,CHEMBL88055,asthma,RIMITEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL679,asthma,EPINEPHRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf900,shared,CHEMBL776,asthma,METAPROTERENOL,Small molecule,ADRB2
+conf900,shared,CHEMBL1198857,asthma,VILANTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL1201231,asthma,PREDNISOLONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,shared,CHEMBL1002,asthma,LEVOSALBUTAMOL,Small molecule,ADRB2
+conf900,shared,CHEMBL635,asthma,PREDNISONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1263,asthma,SALMETEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL1187833,asthma,UMECLIDINIUM,Small molecule,CHRM3
+conf900,shared,CHEMBL1200500,asthma,BECLOMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf900,shared,CHEMBL211456,asthma,EPHEDRINE,Small molecule,ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+conf900,shared,CHEMBL1201335,asthma,GLYCOPYRRONIUM,Small molecule,CHRM1;CHRM2;CHRM3;CHRM4;CHRM5
+conf900,shared,CHEMBL160519,asthma,PROCATEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL977,asthma,HYDROCORTISONE HEMISUCCINATE ANHYDROUS,Small molecule,NR3C1
+conf900,shared,CHEMBL389621,asthma,HYDROCORTISONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201302,asthma,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,shared,CHEMBL32800,asthma,FENOTEROL,Small molecule,ADRB2
+conf900,shared,CHEMBL1512,asthma,FLUNISOLIDE,Small molecule,NR3C1
+conf900,shared,CHEMBL1900528,asthma,TIOTROPIUM,Small molecule,CHRM3
+conf900,shared,CHEMBL3707229,asthma,TEZEPELUMAB,Antibody,TSLP
+conf900,shared,CHEMBL2108675,asthma,DUPILUMAB,Antibody,IL4R
+conf900,shared,CHEMBL514800,psoriasis,APREMILAST,Small molecule,PDE4B;PDE4D
+conf900,shared,CHEMBL989,psoriasis,FLUOCINOLONE ACETONIDE,Small molecule,NR3C1
+conf900,shared,CHEMBL4297911,psoriasis,SPESOLIMAB,Antibody,IL1RAP
+conf900,shared,CHEMBL1743068,psoriasis,SECUKINUMAB,Antibody,IL17A
+conf900,shared,CHEMBL1201581,psoriasis,INFLIXIMAB,Antibody,TNF
+conf900,shared,CHEMBL193240,psoriasis,ROFLUMILAST,Small molecule,PDE4B;PDE4D
+conf900,shared,CHEMBL1200384,psoriasis,BETAMETHASONE DIPROPIONATE,Small molecule,NR3C1
+conf900,shared,CHEMBL1657,psoriasis,TAZAROTENE,Small molecule,RARA;RARB;RARG
+conf900,shared,CHEMBL1131,psoriasis,ACITRETIN,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf900,shared,CHEMBL256087,psoriasis,MENTHOL,Small molecule,TRPA1
+conf900,shared,CHEMBL2107333,psoriasis,DIMETHYL FUMARATE,Small molecule,KEAP1
+conf900,shared,CHEMBL464,psoriasis,ETRETINATE,Small molecule,RARA;RARB;RARG;RXRA;RXRB;RXRG
+conf900,shared,CHEMBL384467,psoriasis,DEXAMETHASONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201575,psoriasis,EFALIZUMAB,Antibody,ITGAL;ITGB2
+conf900,shared,CHEMBL4297700,psoriasis,BIMEKIZUMAB,Antibody,IL17A;IL17F
+conf900,shared,CHEMBL1766,psoriasis,DESOXIMETASONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1200908,psoriasis,HALOBETASOL PROPIONATE,Small molecule,NR3C1
+conf900,shared,CHEMBL4596392,psoriasis,CRAVACITINIB,Small molecule,TYK2
+conf900,shared,CHEMBL1743034,psoriasis,IXEKIZUMAB,Antibody,IL17A
+conf900,shared,CHEMBL1159650,psoriasis,CLOBETASOL PROPIONATE,Small molecule,NR3C1
+conf900,shared,CHEMBL131,psoriasis,PREDNISOLONE,Small molecule,NR3C1
+conf900,shared,CHEMBL259571,psoriasis,TAPINAROF,Small molecule,AHR
+conf900,shared,CHEMBL160,psoriasis,CYCLOSPORINE,Protein,PPIA
+conf900,shared,CHEMBL1201572,psoriasis,ETANERCEPT,Protein,TNF
+conf900,shared,CHEMBL635,psoriasis,PREDNISONE,Small molecule,NR3C1
+conf900,shared,CHEMBL2108681,psoriasis,TILDRAKIZUMAB,Antibody,IL12B;IL23A
+conf900,shared,CHEMBL2364648,psoriasis,GUSELKUMAB,Antibody,IL12B;IL23A
+conf900,shared,CHEMBL389621,psoriasis,HYDROCORTISONE,Small molecule,NR3C1
+conf900,shared,CHEMBL1201302,psoriasis,DEXAMETHASONE PHOSPHORIC ACID,Small molecule,NR3C1
+conf900,shared,CHEMBL1742996,psoriasis,BRODALUMAB,Antibody,IL17RA
+conf900,shared,CHEMBL1201835,psoriasis,USTEKINUMAB,Antibody,IL12A;IL12B;IL23A
+conf900,shared,CHEMBL1201580,psoriasis,ADALIMUMAB,Antibody,TNF
+conf900,shared,CHEMBL3990029,psoriasis,RISANKIZUMAB,Antibody,IL12B;IL23A

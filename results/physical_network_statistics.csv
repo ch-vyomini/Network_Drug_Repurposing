@@ -1,0 +1,4 @@
+network,threshold,nodes_all,edges_all,components,lcc_nodes,lcc_edges,lcc_fraction_of_nodes,lcc_mean_degree,lcc_max_degree,distance_matrix_GB_float64
+physical,400,17828,430638,20,17787,430614,0.9977,48.42,4787,2.53
+physical,700,14404,145815,169,13996,145498,0.9717,20.79,604,1.57
+physical,900,11442,70797,443,10196,69580,0.8911,13.65,292,0.83

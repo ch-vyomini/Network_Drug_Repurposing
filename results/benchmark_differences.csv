@@ -1,0 +1,17 @@
+run,comparison,diff,ci_low,ci_high,verdict
+conf700/full,Proximity - Raw distance (no null),-0.012061040741090934,-0.024380641760401417,0.0008456415436335939,no clear difference
+conf700/full,Proximity - Overlap fraction,0.004566830513280995,-0.022876715445431864,0.03358630492513149,no clear difference
+conf700/full,Proximity - Overlap hypergeometric,0.004212354664902107,-0.023065555223408505,0.03282982128487529,no clear difference
+conf700/full,Proximity - Target degree,0.044708266376784156,0.007671864790183662,0.08072900550193012,proximity better
+conf900/shared,Proximity - Raw distance (no null),-0.01083152294770695,-0.02539172965378648,0.003157296349494774,no clear difference
+conf900/shared,Proximity - Overlap fraction,0.025356232573256365,0.0011681307550904187,0.05104556249541033,proximity better
+conf900/shared,Proximity - Overlap hypergeometric,0.02487726440753346,0.0007259335183713023,0.05062449686556522,proximity better
+conf900/shared,Proximity - Target degree,0.07091294753587984,0.03201433205373289,0.10916542364557083,proximity better
+conf700/shared,Proximity - Raw distance (no null),-0.01544330214338252,-0.027640109987001175,-0.00243440409710537,proximity worse
+conf700/shared,Proximity - Overlap fraction,0.009673446347012393,-0.02064198661693351,0.03785448465640931,no clear difference
+conf700/shared,Proximity - Overlap hypergeometric,0.009403171453497339,-0.02013048073855955,0.037314970179922524,no clear difference
+conf700/shared,Proximity - Target degree,0.053567457534340335,0.01232926437060032,0.09321015112953338,proximity better
+conf400/shared,Proximity - Raw distance (no null),0.00015053285208432854,-0.01478175167621275,0.01673125807466072,no clear difference
+conf400/shared,Proximity - Overlap fraction,0.08698232949588591,0.05896300526517158,0.11447692711993619,proximity better
+conf400/shared,Proximity - Overlap hypergeometric,0.0867325818094733,0.05907462566561305,0.11373274232591342,proximity better
+conf400/shared,Proximity - Target degree,0.14239210386766787,0.0980750171674629,0.18848078883777641,proximity better

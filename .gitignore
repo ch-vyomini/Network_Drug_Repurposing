@@ -1,0 +1,23 @@
+# ---- Large / regenerable data: NEVER commit ----
+data/
+
+# Derived binary files (only exist inside data/, listed again in case they appear elsewhere)
+*.pkl
+*.npz
+*.parquet
+*.part
+
+# Excel copies are not needed: the scripts read and write CSV files in results/
+*.xlsx
+~$*
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.spyproject/
+.ipynb_checkpoints/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

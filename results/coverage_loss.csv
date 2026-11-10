@@ -1,0 +1,7 @@
+disease,genes_total,conf400,conf700,conf900,kept_in_shared_%
+asthma,292,279,242,204,73.0
+heart failure,127,125,109,92,74.0
+hypercholesterolemia,125,117,95,76,65.0
+psoriasis,130,126,113,100,79.0
+rheumatoid arthritis,208,197,171,137,70.0
+type 2 diabetes mellitus,732,703,585,452,64.0

@@ -1,0 +1,522 @@
+network,mode,drugId,drug_name,drugType,reason
+conf400,full,CHEMBL1114,THEOBROMINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1200574,SODIUM CHLORIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1200666,CALCIPOTRIENE,Small molecule,its targets are not in this network
+conf400,full,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1201266,LODOXAMIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1201404,MOMETASONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1201465,CHYMOTRYPSIN,Unknown,no target recorded in Open Targets
+conf400,full,CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,Unknown,no target recorded in Open Targets
+conf400,full,CHEMBL1201589,OMALIZUMAB,Antibody,its targets are not in this network
+conf400,full,CHEMBL1201625,CHOLESTYRAMINE,Unknown,no target recorded in Open Targets
+conf400,full,CHEMBL1233877,,,no target recorded in Open Targets
+conf400,full,CHEMBL1364,PYRIDOXINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1366,AURANOFIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1430,PENICILLAMINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1451633,ETOFENAMATE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1474900,OLPRINONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1475,TRIOXSALEN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1527608,DOXOFYLLINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL154111,SALSALATE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1556,INOSINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1586,BECLOMETHASONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1622,FOLIC ACID,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL1697785,BETAMETHASONE BUTYRATE PROPIONATE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL17423,VESNARINONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2104003,BEMETIZIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2104197,BUTHIAZIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2105300,REPIRINAST,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2105611,TACALCITOL,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2105827,"GLYCEROL, IODINATED",Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2106618,GLISOXEPIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL2108232,COAL TAR,Unknown,no target recorded in Open Targets
+conf400,full,CHEMBL2109181,NEBACUMAB,Antibody,no target recorded in Open Targets
+conf400,full,CHEMBL2110563,CYANOCOBALAMIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL222863,OUABAIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL24171,BERGAPTEN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL267744,TICRYNAFEN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL276832,HYDRALAZINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL279898,ENPROFYLLINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL283754,CINALUKAST,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL302795,TENOXICAM,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL306043,GOLD SODIUM THIOMALATE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL330829,ETOZOLIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL333950,MAXACALCITOL,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL3585580,LOBEGLITAZONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL3707230,"MERCURY, AMMONIATED",Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL3988900,ZINC OXIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL416,METHOXSALEN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL424,SALICYLIC ACID,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL428880,CROMOLYN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL4297364,,,no target recorded in Open Targets
+conf400,full,CHEMBL4297565,CERTOLIZUMAB,Antibody,no target recorded in Open Targets
+conf400,full,CHEMBL44746,KHELLIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL46469,ANTHRALIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL503160,FUMARIC ACID,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL513301,TRIMAZOSIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL5314346,VERTEPORFIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL573,NIACIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL6068331,COLESEVELAM,Unknown,no target recorded in Open Targets
+conf400,full,CHEMBL609,TRIENTINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL63323,NIFLUMIC ACID,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL689,MANNITOL,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL70927,DEFERIPRONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL77622,DOPEXAMINE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL846,CALCITRIOL,Small molecule,its targets are not in this network
+conf400,full,CHEMBL857,BIOTIN,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL90593,PRASTERONE,Small molecule,no target recorded in Open Targets
+conf400,full,CHEMBL925,TYROSINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1055,CHLORTHALIDONE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL1072,BUMETANIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL1114,THEOBROMINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1138,EZETIMIBE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL1148,TORSEMIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL1200574,SODIUM CHLORIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1200666,CALCIPOTRIENE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1201266,LODOXAMIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1201404,MOMETASONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1201465,CHYMOTRYPSIN,Unknown,no target recorded in Open Targets
+conf400,shared,CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,Unknown,no target recorded in Open Targets
+conf400,shared,CHEMBL1201576,RITUXIMAB,Antibody,its targets are not in this network
+conf400,shared,CHEMBL1201589,OMALIZUMAB,Antibody,its targets are not in this network
+conf400,shared,CHEMBL1201625,CHOLESTYRAMINE,Unknown,no target recorded in Open Targets
+conf400,shared,CHEMBL1233877,,,no target recorded in Open Targets
+conf400,shared,CHEMBL1364,PYRIDOXINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1366,AURANOFIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1430,PENICILLAMINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1451633,ETOFENAMATE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1474900,OLPRINONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1475,TRIOXSALEN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1527608,DOXOFYLLINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL154111,SALSALATE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1556,INOSINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1561,MIGLITOL,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL1586,BECLOMETHASONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1622,FOLIC ACID,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1697785,BETAMETHASONE BUTYRATE PROPIONATE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL17423,VESNARINONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL1763,HYDROFLUMETHIAZIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL2097081,NITROPRUSSIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL2104003,BEMETIZIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL2104197,BUTHIAZIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL2105300,REPIRINAST,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL2105611,TACALCITOL,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL2105827,"GLYCEROL, IODINATED",Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL2106618,GLISOXEPIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL2108232,COAL TAR,Unknown,no target recorded in Open Targets
+conf400,shared,CHEMBL2109181,NEBACUMAB,Antibody,no target recorded in Open Targets
+conf400,shared,CHEMBL2110563,CYANOCOBALAMIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL222863,OUABAIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL24171,BERGAPTEN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL267744,TICRYNAFEN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL276832,HYDRALAZINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL279898,ENPROFYLLINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL283754,CINALUKAST,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL302795,TENOXICAM,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL306043,GOLD SODIUM THIOMALATE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL330829,ETOZOLIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL333950,MAXACALCITOL,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL34259,METHOTREXATE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL35,FUROSEMIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL3585580,LOBEGLITAZONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL3707230,"MERCURY, AMMONIATED",Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL3988900,ZINC OXIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL404271,ACARBOSE,Oligosaccharide,its targets are not in this network
+conf400,shared,CHEMBL406,INDAPAMIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL4066936,VERICIGUAT,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL416,METHOXSALEN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL424,SALICYLIC ACID,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL428880,CROMOLYN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL4297364,,,no target recorded in Open Targets
+conf400,shared,CHEMBL4297565,CERTOLIZUMAB,Antibody,no target recorded in Open Targets
+conf400,shared,CHEMBL435,HYDROCHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL44746,KHELLIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL456,ETHACRYNIC ACID,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL46469,ANTHRALIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL476960,VOGLIBOSE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL503160,FUMARIC ACID,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL513301,TRIMAZOSIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL515914,AZARIBINE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL5314346,VERTEPORFIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL573,NIACIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL6068331,COLESEVELAM,Unknown,no target recorded in Open Targets
+conf400,shared,CHEMBL609,TRIENTINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL61593,CYCLOTHIAZIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL63323,NIFLUMIC ACID,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL6622,ISOSORBIDE DINITRATE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL689,MANNITOL,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL70927,DEFERIPRONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL730,NITROGLYCERIN,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL77622,DOPEXAMINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL842,CHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL846,CALCITRIOL,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL857,BIOTIN,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL878,METOLAZONE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL902,FAMOTIDINE,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL90593,PRASTERONE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL925,TYROSINE,Small molecule,no target recorded in Open Targets
+conf400,shared,CHEMBL93,ZILEUTON,Small molecule,its targets are not in this network
+conf400,shared,CHEMBL960,LEFLUNOMIDE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL1072,BUMETANIDE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL1114,THEOBROMINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1138,EZETIMIBE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL1148,TORSEMIDE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL1200574,SODIUM CHLORIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1200666,CALCIPOTRIENE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1201266,LODOXAMIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1201404,MOMETASONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1201465,CHYMOTRYPSIN,Unknown,no target recorded in Open Targets
+conf700,full,CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,Unknown,no target recorded in Open Targets
+conf700,full,CHEMBL1201576,RITUXIMAB,Antibody,its targets are not in this network
+conf700,full,CHEMBL1201589,OMALIZUMAB,Antibody,its targets are not in this network
+conf700,full,CHEMBL1201625,CHOLESTYRAMINE,Unknown,no target recorded in Open Targets
+conf700,full,CHEMBL1233877,,,no target recorded in Open Targets
+conf700,full,CHEMBL1364,PYRIDOXINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1366,AURANOFIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1430,PENICILLAMINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1451633,ETOFENAMATE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1474900,OLPRINONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1475,TRIOXSALEN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1527608,DOXOFYLLINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL154111,SALSALATE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1556,INOSINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1586,BECLOMETHASONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1622,FOLIC ACID,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL1697785,BETAMETHASONE BUTYRATE PROPIONATE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL17423,VESNARINONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2104003,BEMETIZIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2104197,BUTHIAZIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2105300,REPIRINAST,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2105611,TACALCITOL,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2105827,"GLYCEROL, IODINATED",Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2106618,GLISOXEPIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL2108232,COAL TAR,Unknown,no target recorded in Open Targets
+conf700,full,CHEMBL2109181,NEBACUMAB,Antibody,no target recorded in Open Targets
+conf700,full,CHEMBL2110563,CYANOCOBALAMIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL222863,OUABAIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL24171,BERGAPTEN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL267744,TICRYNAFEN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL276832,HYDRALAZINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL279898,ENPROFYLLINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL283754,CINALUKAST,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL302795,TENOXICAM,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL306043,GOLD SODIUM THIOMALATE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL330829,ETOZOLIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL333950,MAXACALCITOL,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL35,FUROSEMIDE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL3585580,LOBEGLITAZONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL3707230,"MERCURY, AMMONIATED",Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL3988900,ZINC OXIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL416,METHOXSALEN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL424,SALICYLIC ACID,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL428880,CROMOLYN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL4297364,,,no target recorded in Open Targets
+conf700,full,CHEMBL4297565,CERTOLIZUMAB,Antibody,no target recorded in Open Targets
+conf700,full,CHEMBL44746,KHELLIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL456,ETHACRYNIC ACID,Small molecule,its targets are not in this network
+conf700,full,CHEMBL46469,ANTHRALIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL503160,FUMARIC ACID,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL513301,TRIMAZOSIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL515914,AZARIBINE,Small molecule,its targets are not in this network
+conf700,full,CHEMBL5314346,VERTEPORFIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL573,NIACIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL6068331,COLESEVELAM,Unknown,no target recorded in Open Targets
+conf700,full,CHEMBL609,TRIENTINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL63323,NIFLUMIC ACID,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL689,MANNITOL,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL70927,DEFERIPRONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL77622,DOPEXAMINE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL846,CALCITRIOL,Small molecule,its targets are not in this network
+conf700,full,CHEMBL857,BIOTIN,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL90593,PRASTERONE,Small molecule,no target recorded in Open Targets
+conf700,full,CHEMBL925,TYROSINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1055,CHLORTHALIDONE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL1072,BUMETANIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL1114,THEOBROMINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1138,EZETIMIBE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL1148,TORSEMIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL1200574,SODIUM CHLORIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1200666,CALCIPOTRIENE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1201266,LODOXAMIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1201404,MOMETASONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1201465,CHYMOTRYPSIN,Unknown,no target recorded in Open Targets
+conf700,shared,CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,Unknown,no target recorded in Open Targets
+conf700,shared,CHEMBL1201576,RITUXIMAB,Antibody,its targets are not in this network
+conf700,shared,CHEMBL1201589,OMALIZUMAB,Antibody,its targets are not in this network
+conf700,shared,CHEMBL1201625,CHOLESTYRAMINE,Unknown,no target recorded in Open Targets
+conf700,shared,CHEMBL1233877,,,no target recorded in Open Targets
+conf700,shared,CHEMBL1364,PYRIDOXINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1366,AURANOFIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1430,PENICILLAMINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1451633,ETOFENAMATE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1474900,OLPRINONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1475,TRIOXSALEN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1527608,DOXOFYLLINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL154111,SALSALATE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1556,INOSINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1561,MIGLITOL,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL1586,BECLOMETHASONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1622,FOLIC ACID,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1697785,BETAMETHASONE BUTYRATE PROPIONATE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL17423,VESNARINONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL1763,HYDROFLUMETHIAZIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL2097081,NITROPRUSSIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL2104003,BEMETIZIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL2104197,BUTHIAZIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL2105300,REPIRINAST,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL2105611,TACALCITOL,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL2105827,"GLYCEROL, IODINATED",Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL2106618,GLISOXEPIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL2108232,COAL TAR,Unknown,no target recorded in Open Targets
+conf700,shared,CHEMBL2109181,NEBACUMAB,Antibody,no target recorded in Open Targets
+conf700,shared,CHEMBL2110563,CYANOCOBALAMIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL222863,OUABAIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL24171,BERGAPTEN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL267744,TICRYNAFEN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL276832,HYDRALAZINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL279898,ENPROFYLLINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL283754,CINALUKAST,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL302795,TENOXICAM,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL306043,GOLD SODIUM THIOMALATE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL330829,ETOZOLIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL333950,MAXACALCITOL,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL34259,METHOTREXATE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL35,FUROSEMIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL3585580,LOBEGLITAZONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL3707230,"MERCURY, AMMONIATED",Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL3988900,ZINC OXIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL404271,ACARBOSE,Oligosaccharide,its targets are not in this network
+conf700,shared,CHEMBL406,INDAPAMIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL4066936,VERICIGUAT,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL416,METHOXSALEN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL424,SALICYLIC ACID,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL428880,CROMOLYN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL4297364,,,no target recorded in Open Targets
+conf700,shared,CHEMBL4297565,CERTOLIZUMAB,Antibody,no target recorded in Open Targets
+conf700,shared,CHEMBL435,HYDROCHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL44746,KHELLIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL456,ETHACRYNIC ACID,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL46469,ANTHRALIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL476960,VOGLIBOSE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL503160,FUMARIC ACID,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL513301,TRIMAZOSIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL515914,AZARIBINE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL5314346,VERTEPORFIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL573,NIACIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL6068331,COLESEVELAM,Unknown,no target recorded in Open Targets
+conf700,shared,CHEMBL609,TRIENTINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL61593,CYCLOTHIAZIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL63323,NIFLUMIC ACID,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL6622,ISOSORBIDE DINITRATE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL689,MANNITOL,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL70927,DEFERIPRONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL730,NITROGLYCERIN,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL77622,DOPEXAMINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL842,CHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL846,CALCITRIOL,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL857,BIOTIN,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL878,METOLAZONE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL902,FAMOTIDINE,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL90593,PRASTERONE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL925,TYROSINE,Small molecule,no target recorded in Open Targets
+conf700,shared,CHEMBL93,ZILEUTON,Small molecule,its targets are not in this network
+conf700,shared,CHEMBL960,LEFLUNOMIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1055,CHLORTHALIDONE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1072,BUMETANIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1114,THEOBROMINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1138,EZETIMIBE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1148,TORSEMIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1200574,SODIUM CHLORIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1200666,CALCIPOTRIENE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1201266,LODOXAMIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1201404,MOMETASONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1201465,CHYMOTRYPSIN,Unknown,no target recorded in Open Targets
+conf900,full,CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,Unknown,no target recorded in Open Targets
+conf900,full,CHEMBL1201576,RITUXIMAB,Antibody,its targets are not in this network
+conf900,full,CHEMBL1201589,OMALIZUMAB,Antibody,its targets are not in this network
+conf900,full,CHEMBL1201625,CHOLESTYRAMINE,Unknown,no target recorded in Open Targets
+conf900,full,CHEMBL1233877,,,no target recorded in Open Targets
+conf900,full,CHEMBL1364,PYRIDOXINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1366,AURANOFIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1430,PENICILLAMINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1451633,ETOFENAMATE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1474900,OLPRINONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1475,TRIOXSALEN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1527608,DOXOFYLLINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL154111,SALSALATE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1556,INOSINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1561,MIGLITOL,Small molecule,its targets are not in this network
+conf900,full,CHEMBL1586,BECLOMETHASONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1622,FOLIC ACID,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1697785,BETAMETHASONE BUTYRATE PROPIONATE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL17423,VESNARINONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL1763,HYDROFLUMETHIAZIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL2097081,NITROPRUSSIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL2104003,BEMETIZIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL2104197,BUTHIAZIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL2105300,REPIRINAST,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL2105611,TACALCITOL,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL2105827,"GLYCEROL, IODINATED",Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL2106618,GLISOXEPIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL2108232,COAL TAR,Unknown,no target recorded in Open Targets
+conf900,full,CHEMBL2109181,NEBACUMAB,Antibody,no target recorded in Open Targets
+conf900,full,CHEMBL2110563,CYANOCOBALAMIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL222863,OUABAIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL24171,BERGAPTEN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL267744,TICRYNAFEN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL276832,HYDRALAZINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL279898,ENPROFYLLINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL283754,CINALUKAST,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL302795,TENOXICAM,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL306043,GOLD SODIUM THIOMALATE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL330829,ETOZOLIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL333950,MAXACALCITOL,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL34259,METHOTREXATE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL35,FUROSEMIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL3585580,LOBEGLITAZONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL3707230,"MERCURY, AMMONIATED",Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL3988900,ZINC OXIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL404271,ACARBOSE,Oligosaccharide,its targets are not in this network
+conf900,full,CHEMBL406,INDAPAMIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL4066936,VERICIGUAT,Small molecule,its targets are not in this network
+conf900,full,CHEMBL416,METHOXSALEN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL424,SALICYLIC ACID,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL428880,CROMOLYN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL4297364,,,no target recorded in Open Targets
+conf900,full,CHEMBL4297565,CERTOLIZUMAB,Antibody,no target recorded in Open Targets
+conf900,full,CHEMBL435,HYDROCHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL44746,KHELLIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL456,ETHACRYNIC ACID,Small molecule,its targets are not in this network
+conf900,full,CHEMBL46469,ANTHRALIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL476960,VOGLIBOSE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL503160,FUMARIC ACID,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL513301,TRIMAZOSIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL515914,AZARIBINE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL5314346,VERTEPORFIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL573,NIACIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL6068331,COLESEVELAM,Unknown,no target recorded in Open Targets
+conf900,full,CHEMBL609,TRIENTINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL61593,CYCLOTHIAZIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL63323,NIFLUMIC ACID,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL6622,ISOSORBIDE DINITRATE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL689,MANNITOL,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL70927,DEFERIPRONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL730,NITROGLYCERIN,Small molecule,its targets are not in this network
+conf900,full,CHEMBL77622,DOPEXAMINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL842,CHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL846,CALCITRIOL,Small molecule,its targets are not in this network
+conf900,full,CHEMBL857,BIOTIN,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL878,METOLAZONE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL902,FAMOTIDINE,Small molecule,its targets are not in this network
+conf900,full,CHEMBL90593,PRASTERONE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL925,TYROSINE,Small molecule,no target recorded in Open Targets
+conf900,full,CHEMBL93,ZILEUTON,Small molecule,its targets are not in this network
+conf900,full,CHEMBL960,LEFLUNOMIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1055,CHLORTHALIDONE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1072,BUMETANIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1114,THEOBROMINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1138,EZETIMIBE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1148,TORSEMIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1200574,SODIUM CHLORIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1200666,CALCIPOTRIENE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1201266,LODOXAMIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1201404,MOMETASONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1201465,CHYMOTRYPSIN,Unknown,no target recorded in Open Targets
+conf900,shared,CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,Unknown,no target recorded in Open Targets
+conf900,shared,CHEMBL1201576,RITUXIMAB,Antibody,its targets are not in this network
+conf900,shared,CHEMBL1201589,OMALIZUMAB,Antibody,its targets are not in this network
+conf900,shared,CHEMBL1201625,CHOLESTYRAMINE,Unknown,no target recorded in Open Targets
+conf900,shared,CHEMBL1233877,,,no target recorded in Open Targets
+conf900,shared,CHEMBL1364,PYRIDOXINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1366,AURANOFIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1430,PENICILLAMINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1451633,ETOFENAMATE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1474900,OLPRINONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1475,TRIOXSALEN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1527608,DOXOFYLLINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL154111,SALSALATE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1556,INOSINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1561,MIGLITOL,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL1586,BECLOMETHASONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1622,FOLIC ACID,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1697785,BETAMETHASONE BUTYRATE PROPIONATE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL17423,VESNARINONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL1763,HYDROFLUMETHIAZIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL2097081,NITROPRUSSIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL2104003,BEMETIZIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL2104197,BUTHIAZIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL2105300,REPIRINAST,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL2105611,TACALCITOL,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL2105827,"GLYCEROL, IODINATED",Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL2106618,GLISOXEPIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL2108232,COAL TAR,Unknown,no target recorded in Open Targets
+conf900,shared,CHEMBL2109181,NEBACUMAB,Antibody,no target recorded in Open Targets
+conf900,shared,CHEMBL2110563,CYANOCOBALAMIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL222863,OUABAIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL24171,BERGAPTEN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL267744,TICRYNAFEN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL276832,HYDRALAZINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL279898,ENPROFYLLINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL283754,CINALUKAST,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL302795,TENOXICAM,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL306043,GOLD SODIUM THIOMALATE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL330829,ETOZOLIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL333950,MAXACALCITOL,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL34259,METHOTREXATE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL35,FUROSEMIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL3585580,LOBEGLITAZONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL3707230,"MERCURY, AMMONIATED",Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL3988900,ZINC OXIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL404271,ACARBOSE,Oligosaccharide,its targets are not in this network
+conf900,shared,CHEMBL406,INDAPAMIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL4066936,VERICIGUAT,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL416,METHOXSALEN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL424,SALICYLIC ACID,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL428880,CROMOLYN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL4297364,,,no target recorded in Open Targets
+conf900,shared,CHEMBL4297565,CERTOLIZUMAB,Antibody,no target recorded in Open Targets
+conf900,shared,CHEMBL435,HYDROCHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL44746,KHELLIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL456,ETHACRYNIC ACID,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL46469,ANTHRALIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL476960,VOGLIBOSE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL503160,FUMARIC ACID,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL513301,TRIMAZOSIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL515914,AZARIBINE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL5314346,VERTEPORFIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL573,NIACIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL6068331,COLESEVELAM,Unknown,no target recorded in Open Targets
+conf900,shared,CHEMBL609,TRIENTINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL61593,CYCLOTHIAZIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL63323,NIFLUMIC ACID,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL6622,ISOSORBIDE DINITRATE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL689,MANNITOL,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL70927,DEFERIPRONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL730,NITROGLYCERIN,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL77622,DOPEXAMINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL842,CHLOROTHIAZIDE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL846,CALCITRIOL,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL857,BIOTIN,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL878,METOLAZONE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL902,FAMOTIDINE,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL90593,PRASTERONE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL925,TYROSINE,Small molecule,no target recorded in Open Targets
+conf900,shared,CHEMBL93,ZILEUTON,Small molecule,its targets are not in this network
+conf900,shared,CHEMBL960,LEFLUNOMIDE,Small molecule,its targets are not in this network

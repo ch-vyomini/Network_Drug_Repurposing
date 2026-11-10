@@ -1,0 +1,37 @@
+network,mode,disease,genes_total,genes_used,disease_kept,known_drugs_used
+conf400,full,type 2 diabetes mellitus,732,703,True,51
+conf400,full,heart failure,127,125,True,62
+conf400,full,hypercholesterolemia,125,117,True,18
+conf400,full,rheumatoid arthritis,208,197,True,67
+conf400,full,asthma,292,279,True,58
+conf400,full,psoriasis,130,126,True,35
+conf400,shared,type 2 diabetes mellitus,732,452,True,48
+conf400,shared,heart failure,127,92,True,47
+conf400,shared,hypercholesterolemia,125,76,True,17
+conf400,shared,rheumatoid arthritis,208,137,True,63
+conf400,shared,asthma,292,204,True,57
+conf400,shared,psoriasis,130,100,True,33
+conf700,full,type 2 diabetes mellitus,732,585,True,51
+conf700,full,heart failure,127,109,True,58
+conf700,full,hypercholesterolemia,125,95,True,17
+conf700,full,rheumatoid arthritis,208,171,True,66
+conf700,full,asthma,292,242,True,58
+conf700,full,psoriasis,130,113,True,34
+conf700,shared,type 2 diabetes mellitus,732,452,True,48
+conf700,shared,heart failure,127,92,True,47
+conf700,shared,hypercholesterolemia,125,76,True,17
+conf700,shared,rheumatoid arthritis,208,137,True,63
+conf700,shared,asthma,292,204,True,57
+conf700,shared,psoriasis,130,100,True,33
+conf900,full,type 2 diabetes mellitus,732,452,True,48
+conf900,full,heart failure,127,92,True,47
+conf900,full,hypercholesterolemia,125,76,True,17
+conf900,full,rheumatoid arthritis,208,137,True,63
+conf900,full,asthma,292,204,True,57
+conf900,full,psoriasis,130,100,True,33
+conf900,shared,type 2 diabetes mellitus,732,452,True,48
+conf900,shared,heart failure,127,92,True,47
+conf900,shared,hypercholesterolemia,125,76,True,17
+conf900,shared,rheumatoid arthritis,208,137,True,63
+conf900,shared,asthma,292,204,True,57
+conf900,shared,psoriasis,130,100,True,33
